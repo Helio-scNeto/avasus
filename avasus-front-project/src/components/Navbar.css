@@ -1,0 +1,27 @@
+.navbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1rem 2rem;
+}
+.navbar h2 a{
+    opacity:1 
+}
+
+.navbar ul {
+    display: flex;
+    gap: 1rem;
+}
+
+.btn-entrar {
+    border: 1px solid black;
+    padding: .1rem 1rem;
+    border-radius: 1rem;
+}
+
+.btn-cadastrar {
+    border: 1px solid black;
+    background-color: rgb(112, 112, 112);
+    padding: .1rem 1rem;
+    border-radius: 1rem;
+}
