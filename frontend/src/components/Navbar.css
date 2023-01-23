@@ -1,27 +1,123 @@
-.navbar{
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    padding: 1rem 2rem;
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: baseline;
+  padding: 1rem 2rem;
+  width: 1920px;
+  height: 100px;
+  left: 0px;
+  top: 0px;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
 }
-.navbar h2 a{
-    opacity:1 
+
+
+.avasusLogo {
+  padding-right: 75.5px;
+  padding-left: 122px;
+  width: 199.5px;
+  height: 43.08px;
+  left: 122px;
+  top: 28px;
 }
 
 .navbar ul {
-    display: flex;
-    gap: 1rem;
+  display: flex;
+  justify-content: center;
+  gap: 6rem;
+}
+
+.nav {
+  width: 57px;
+  height: 24px;
+  left: 397px;
+  top: 38px;
+
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  align-items: center;
+  color: #707070;
+}
+
+.search-box {
+  width: 353px;
+  height: 40px;
+  margin-left: -50px;
+  margin-top: -10px;
+  background: #ffffff;
+  border: 2px solid rgba(0, 0, 0, 0.2);
+  border-radius: 20px;
+}
+
+.search-box img {
+  padding-left: 10px;
+  padding-top: 10px;
+}
+
+.search-box input {
+  position: absolute;
+  margin-left: 10px;
+  padding-top: -100px;
+  width: 300px;
+  height: 40px;
+  border: none;
+}
+
+.search::placeholder {
+  left: 14.16%;
+  right: 34.84%;
+  top: 22.5%;
+  bottom: 22.5%;
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 22px;
+  color: #545454;
 }
 
 .btn-entrar {
-    border: 1px solid black;
-    padding: .1rem 1rem;
-    border-radius: 1rem;
+  box-sizing: border-box;
+
+  justify-content: center;
+  align-items: center;
+  gap: 200px;
+
+  margin-top: -10px;
+  margin-left: -90px;
+
+  width: 130px;
+  height: 40px;
+  left: 1534px;
+  top: 30px;
+
+  font-style: normal;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+  align-items: center;
+
+  border: 1px solid #707070;
+  border-radius: 20px;
 }
 
 .btn-cadastrar {
-    border: 1px solid black;
-    background-color: rgb(112, 112, 112);
-    padding: .1rem 1rem;
-    border-radius: 1rem;
+  justify-content: center;
+
+  margin-top: -10px;
+  margin-left: -90px;
+
+  width: 160px;
+  height: 40px;
+
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #ffffff;
+
+  background: #707070;
+  border-radius: 20px;
 }

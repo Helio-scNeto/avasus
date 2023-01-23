@@ -1,0 +1,205 @@
+.titulo p {
+  width: 346px;
+  height: 37px;
+  left: 787px;
+  top: 974px;
+  padding-left: 400px;
+
+  font-family: 'Montserrat';
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+
+  display: flex;
+  align-items: center;
+  color: #d2202c;
+}
+
+.subtitulos {
+  display: flex;
+  padding: 30px 965px 41px 405px;
+
+  margin-left: -380px;
+  
+  width: 550px;
+  height: 35px;
+gap: 20px;
+  
+}
+
+.subtitulos h2 {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  color: #2F2E41;
+  text-decoration: underline;
+}
+
+.curso {
+  width: 1110px;
+  height: 160px;
+  left: 405px;
+  top: 1106px;
+  margin: 20px;
+  font-style: normal;
+
+  background: #f5f5f7;
+  border-radius: 20px;
+}
+
+.cursoTopicos {
+  display: flex;
+  justify-content: space-between;
+}
+
+.cursoTitulo {
+  width: 274px;
+  height: 48px;
+  left: 562px;
+  top: 1146px;
+
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  align-items: center;
+
+  color: #2f2e41;
+}
+.cursoMatriculados {
+  width: 53px;
+  height: 20px;
+  left: 902.8px;
+  top: 1175.29px;
+
+  font-weight: 400;
+  font-size: 16.7471px;
+  line-height: 20px;
+
+  color: #2f2e41;
+}
+
+.cursoDuracao {
+  width: 77px;
+  height: 20px;
+  left: 1009.72px;
+  top: 1175.29px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16.7471px;
+  line-height: 20px;
+
+  color: #2f2e41;
+}
+
+.cursoAvaliacao {
+  width: 30.92px;
+  height: 21.9px;
+  left: 1266.08px;
+  top: 1175.29px;
+
+  font-weight: 400;
+  font-size: 16.7471px;
+  line-height: 20px;
+
+  color: #2f2e41;
+}
+
+.btn-verModulo {
+  width: 178px;
+  height: 40px;
+  left: 1317px;
+  top: 1166px;
+  position: flex;
+
+  background: #707070;
+  border: 1px solid #707070;
+  border-radius: 20px;
+}
+
+.btn-container-div {
+  text-align: center;
+}
+
+.btn-verMais {
+  width: 350px;
+  height: 50px;
+  left: 785px;
+  top: 1600px;
+
+  background: #707070;
+  border-radius: 20px;
+
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  align-items: center;
+
+  color: #ffffff;
+}
+
+.parceiros h4 {
+  width: 144px;
+  height: 37px;
+  left: 888px;
+  top: 1849px;
+
+  display: flex;
+  padding: 94px 450px 30px 450px;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  /* identical to box height */
+
+  display: flex;
+  align-items: center;
+
+  color: #d2202c;
+}
+
+.parceiros-container {
+  display: flex;
+  gap: 5rem;
+
+  width: 1110px;
+  height: 210px;
+  left: 405px;
+  top: 1916px;
+
+  background: #f5f5f7;
+  border-radius: 20px;
+
+  text-align: center;
+}
+
+.parceiros-container h1 {
+  margin-top: 30px;
+  width: 194px;
+  height: 30px;
+
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+
+  color: #000000;
+}
+
+.parceiros-container p {
+  margin-top: 30px;
+  margin-bottom: 30px;
+
+  font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
+
+  color: #707070;
+}
+
+.parceiro-hp {
+  margin: 5px;
+}
+
+.alinhaParceiro {
+  padding-left: 30px;
+}

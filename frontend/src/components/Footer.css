@@ -1,0 +1,184 @@
+.footerContainer {
+  width: 1920px;
+  height: 644px;
+  left: 0px;
+  top: 2258px;
+}
+
+.footer-1 {
+  width: 1920px;
+  height: 228px;
+  left: 0px;
+  top: 2258px;
+
+  background: #d2202c;
+}
+
+.logoContainer {
+  left: 35.68%;
+  right: 35.73%;
+  top: 81.67%;
+  bottom: 15.71%;
+  padding: 44px 686px 40px 685px;
+}
+
+.laisLogo {
+  padding: 0px 0px 0px 0px;
+}
+
+.ufrnLogo {
+  padding: 0px 0px 0px 80px;
+}
+
+.flexContainer-Realização {
+  width: 132px;
+  height: 29px;
+  padding: 39px 901px 0px 887px;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 29px;
+
+  display: flex;
+  justify-content: center;
+
+  color: #ffffff;
+}
+
+.footer-2 {
+  width: 1920px;
+  height: 416px;
+  left: 0px;
+  top: 2486px;
+
+  background: #323237;
+}
+
+.flexWrap-footer2 {
+  padding: 63px 502px 44px 466px;
+  display: flex;
+}
+
+.flexContainer-footer2 {
+  padding: 63px 0px 0px 0px;
+  width: 202px;
+  height: 87px;
+  left: 466px;
+  top: 2549px;
+}
+
+.flexContainer-footer2-1 {
+  width: 146px;
+  height: 225px;
+  left: 887px;
+  top: 2549px;
+
+  padding: 0px 0px 0px 221px;
+}
+
+.flexContainer-footer2-1 h2 {
+  width: 146px;
+  height: 35px;
+  left: 887px;
+
+  font-weight: 600;
+  font-size: 26px;
+  line-height: 35px;
+
+  color: #ffffff;
+}
+
+.flexContainer-footer2-1 ul {
+  width: 127px;
+  height: 175px;
+  left: 889px;
+  top: 2599px;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 35px;
+
+  color: #ffffff;
+}
+
+.flexContainer-footer2-1 a {
+  width: 127px;
+  height: 175px;
+  left: 889px;
+  top: 2599px;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 35px;
+
+  text-decoration: none;
+  color: #ffffff;
+}
+
+
+.flexContainer-footer2-3 {
+  padding: 0px 0px 0px 219px;
+}
+
+.flexContainer-footer2-3 img {
+  position: relative;
+  padding: 23.36px 15px 0px;
+}
+
+.flexContainer-footer2-3 h2 {
+  width: 166px;
+  height: 35px;
+  left: 1252px;
+  top: 2549px;
+
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 35px;
+
+  text-align: center;
+  color: #ffffff;
+}
+
+.flexContainer-footer2 img {
+  width: 121px;
+  height: 37.53px;
+}
+
+.flexContainer-footer2 p {
+  height: 40px;
+  left: 24.27%;
+  right: 65.21%;
+  top: calc(50% - 40px / 2 + 1165px);
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  letter-spacing: -0.204545px;
+
+  color: #ffffff;
+}
+
+.footer-3 {
+  width: 1920px;
+  height: 84px;
+  left: 0px;
+  top: 2818px;
+
+  background: #424146;
+}
+
+.flexContainer {
+  display: flex;
+  justify-content: center;
+  padding: 27px;
+}
+
+.footer-3 p {
+  width: 438px;
+  height: 35px;
+
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 35px;
+
+  color: #ffffff;
+}
