@@ -1,45 +1,43 @@
 import React from 'react';
-import searchIcon from "../assets/earth-search-logo.svg";
-import avasusLogo from "../assets/avasus-logo.svg";
-import './Navbar.css';
+import searchIcon from '../assets/earth-search-logo.svg';
+import '../styles/Navbar.css';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
- const inicioURL = import.meta.env.BASE_URL
+  const inicioURL = import.meta.env.BASE_URL;
   return (
     <div>
-    <nav className="navbar">
-      <ul>
-        <li>
-        <img className='avasusLogo' src={avasusLogo} alt="" />
-        </li>
-        <li className="nav">
-          <Link to={`${inicioURL}`}>Inicio</Link>
-        </li>
-        <li className="nav">
-          <Link to={'/list'}>Sobre Nós</Link>
-        </li>
-        <li className="nav">
-          <Link to={'#'}>Cursos</Link>
-        </li>
-        <li className="nav">
-          <Link to={'#'}>Parceiros</Link>
-        </li>
-        <li className="nav">
-          <Link to={'#'}>Transparência</Link>
-        </li>
-        <li className="nav">
-          <Link to={'#'}>Contato</Link>
-        </li>
-        <li className="search-box">
-        <img src={searchIcon} alt="search icon" />
+      <div className="navbar">
+        <div className="avasusLogo"></div>
+        <ul>
+          <li className="nav-item">
+            <Link to={'/'}>Inicio</Link>
+          </li>
+          <li className="nav-item">
+            <Link to={'/sobrenos'}>Sobre Nós</Link>
+          </li>
+          <li className="nav-item">
+            <Link to={'cursos'}>Cursos</Link>
+          </li>
+          <li className="nav-item">
+            <Link to={'/parceiros'}>Parceiros</Link>
+          </li>
+          <li className="nav-item">
+            <Link to={'#'}>Transparência</Link>
+          </li>
+          <li className="nav-item">
+            <Link to={'#'}>Contato</Link>
+          </li>
+        </ul>
+        <div className="search-box">
+          <img src={searchIcon} alt="search icon" />
           <input
             className="search"
             type="search"
             placeholder="Busca por um assunto..."
           />
-        </li>
-        <li>
+        </div>
+        <div>
           <Link to={'#'}>
             <input
               type="button"
@@ -47,8 +45,8 @@ const Navbar = () => {
               className="btn-entrar"
             />
           </Link>
-        </li>
-        <li>
+        </div>
+        <div>
           <Link to={'#'}>
             <input
               type="button"
@@ -56,10 +54,8 @@ const Navbar = () => {
               className="btn-cadastrar"
             />
           </Link>
-        </li>
-        <li></li>
-      </ul>
-    </nav>
+        </div>
+      </div>
     </div>
   );
 };

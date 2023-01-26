@@ -1,5 +1,5 @@
 import React from 'react';
-import './Footer.css';
+import '../styles/Footer.css';
 import laisLogo from '../assets/lais-logo.svg';
 import ufrnLogo from '../assets/ufrn-logo.svg';
 import facebookLogo from '../assets/facebook-logo.svg';

@@ -1,52 +1,65 @@
 .navbar {
+  overflow: visible;
   display: flex;
-  align-items: center;
-  justify-content: baseline;
-  padding: 1rem 2rem;
-  width: 1920px;
+  position: fixed;
+  top: 0;
+  left: 0;
+
+  width: 100%;
+  max-width: 1920px;
   height: 100px;
-  left: 0px;
-  top: 0px;
+
   background: #ffffff;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+
+  white-space: nowrap;
 }
 
-
 .avasusLogo {
-  padding-right: 75.5px;
-  padding-left: 122px;
+  position: absolute;
   width: 199.5px;
   height: 43.08px;
   left: 122px;
   top: 28px;
+
+  background-image: url(../assets/avasus-logo.svg);
+  background-repeat: no-repeat;
+  padding: 28px 75.5px 28.92px 122px;
 }
 
 .navbar ul {
   display: flex;
-  justify-content: center;
-  gap: 6rem;
-}
+  position: relative;
+  align-items: center;
 
-.nav {
-  width: 57px;
-  height: 24px;
-  left: 397px;
-  top: 38px;
-
+  margin: 38px 0px 36px 397px;
+  
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
+  
 
-  align-items: center;
+  color: #2f2e41;
+}
+
+.nav-item {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  display: flex;
+
+  margin-right: 36px;
+
   color: #707070;
 }
 
 .search-box {
+  position: absolute;
   width: 353px;
   height: 40px;
-  margin-left: -50px;
-  margin-top: -10px;
-  background: #ffffff;
+
+  margin: 30px 16px 30px 1165px;
+ 
   border: 2px solid rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
@@ -71,7 +84,6 @@
   top: 22.5%;
   bottom: 22.5%;
   font-family: 'Open Sans';
-  font-style: normal;
   font-weight: 400;
   font-size: 16px;
   line-height: 22px;
@@ -79,37 +91,30 @@
 }
 
 .btn-entrar {
+  position: absolute;
   box-sizing: border-box;
 
   justify-content: center;
   align-items: center;
-  gap: 200px;
-
-  margin-top: -10px;
-  margin-left: -90px;
 
   width: 130px;
   height: 40px;
   left: 1534px;
   top: 30px;
 
-  font-style: normal;
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
-  display: flex;
-  align-items: center;
 
   border: 1px solid #707070;
   border-radius: 20px;
 }
 
 .btn-cadastrar {
+  position: absolute;
   justify-content: center;
-
-  margin-top: -10px;
-  margin-left: -90px;
-
+  margin: 30px 81px 30px 520px;
+ 
   width: 160px;
   height: 40px;
 

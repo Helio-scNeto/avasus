@@ -1,38 +1,51 @@
-.titulo p {
+.bannerPrincipal {
+  width: 1920px;
+  height: 760px;
+  left: 0px;
+  top: 0px;
+
+  background: url(../assets/avasus-bannerPrincipal.svg);
+  background-repeat: no-repeat;
+  background-position: 0cm 2.5cm
+}
+
+.titulo h1 {
   width: 346px;
   height: 37px;
   left: 787px;
   top: 974px;
-  padding-left: 400px;
 
-  font-family: 'Montserrat';
   font-weight: 600;
   font-size: 30px;
   line-height: 37px;
 
+  margin: 114px 787px 30px 787px;
+
   display: flex;
   align-items: center;
+
   color: #d2202c;
 }
 
 .subtitulos {
   display: flex;
-  padding: 30px 965px 41px 405px;
-
-  margin-left: -380px;
-  
+  margin: 0px 965px 0px 405px;
   width: 550px;
   height: 35px;
-gap: 20px;
-  
-}
 
-.subtitulos h2 {
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
-  color: #2F2E41;
-  text-decoration: underline;
+  justify-content: center;
+
+  color: #2f2e41;
+}
+
+.subtitulos h4 {
+  width: 202px;
+  height: 24px;
+  padding-right: 34px;
+  white-space: nowrap;
 }
 
 .curso {
@@ -41,80 +54,147 @@ gap: 20px;
   left: 405px;
   top: 1106px;
   margin: 20px;
-  font-style: normal;
+
+  margin: 30px 405px 30px 405px;
 
   background: #f5f5f7;
   border-radius: 20px;
 }
 
 .cursoTopicos {
+  position: absolute;
   display: flex;
-  justify-content: space-between;
+}
+
+.cursoBanner {
+  width: 120px;
+  height: 120px;
+  left: 425px;
+  top: 1126px;
+
+  background: url(../assets/sifilis-banner.svg);
+  background-repeat: no-repeat;
+  border-radius: 20px;
+
+  margin-top: 20px;
+  margin-left: 20px;
+
+  padding: 20px 0px 20px 20px;
+}
+
+.tituloParceiros {
+  display: inline;
+  width: 274px;
+  height: 96px;
+
+  margin-top: -20px;
+
+  padding: 40px 23px 40px 17px;
 }
 
 .cursoTitulo {
+  display: inline-block;
   width: 274px;
   height: 48px;
-  left: 562px;
-  top: 1146px;
+
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+
+  padding: 0px 0px 16px 0px;
+
+  color: #2f2e41;
+}
+
+.cursoParceiros {
+  width: 274px;
+  height: 32px;
+  display: inline-block;
+
+  padding: 0px 855px 0px 0px;
+
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: #f6303f;
+}
+
+.cursoStats {
+  display: flex;
+  width: 438px;
+  height: 24.48px;
+  padding: 68px 0px 67.52px 0px;
+
+  font-weight: 400;
+  font-size: 16.7471px;
+  line-height: 20px;
+
+  color: #2f2e41;
+}
+
+.cursoMatriculados {
+  display: flex;
+  margin-right: 17.85px;
+  padding-top: 6px;
+}
+
+.cursoMatriculados img {
+  width: 30.93px;
+  height: 24.48px;
+  padding: 0px 12.88px 0px 23px;
+}
+
+.cursoDuracao {
+  width: 77px;
+  height: 20px;
+
+  margin-top: 4px;
+  margin-left: -2px;
+}
+
+.tempo {
+  margin-left: 35px;
+  margin-top: -26.5px;
+}
+
+.cursoDuracao img {
+  width: 23.19px;
+  height: 23.19px;
+  padding: 0px 12.88px 0px 0px;
+}
+
+.cursoAvaliacao {
+  font-weight: 400;
+  font-size: 16.7471px;
+  line-height: 20px;
+
+  margin-top: 100px;
+}
+
+.ava {
+  margin-left: 130px;
+  margin-top: -25.5px;
+}
+
+.btn-verModulo {
+  box-sizing: border-box;
+
+  width: 178px;
+  height: 40px;
+
+  margin: 60px 20px 60px -40px;
+
+  background: #707070;
+  border: 1px solid #707070;
+  border-radius: 20px;
 
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
   align-items: center;
 
-  color: #2f2e41;
-}
-.cursoMatriculados {
-  width: 53px;
-  height: 20px;
-  left: 902.8px;
-  top: 1175.29px;
-
-  font-weight: 400;
-  font-size: 16.7471px;
-  line-height: 20px;
-
-  color: #2f2e41;
-}
-
-.cursoDuracao {
-  width: 77px;
-  height: 20px;
-  left: 1009.72px;
-  top: 1175.29px;
-
-  font-style: normal;
-  font-weight: 400;
-  font-size: 16.7471px;
-  line-height: 20px;
-
-  color: #2f2e41;
-}
-
-.cursoAvaliacao {
-  width: 30.92px;
-  height: 21.9px;
-  left: 1266.08px;
-  top: 1175.29px;
-
-  font-weight: 400;
-  font-size: 16.7471px;
-  line-height: 20px;
-
-  color: #2f2e41;
-}
-
-.btn-verModulo {
-  width: 178px;
-  height: 40px;
-  left: 1317px;
-  top: 1166px;
-  position: flex;
-
-  background: #707070;
-  border: 1px solid #707070;
-  border-radius: 20px;
+  color: #ffffff;
 }
 
 .btn-container-div {
@@ -144,16 +224,11 @@ gap: 20px;
   left: 888px;
   top: 1849px;
 
-  display: flex;
-  padding: 94px 450px 30px 450px;
+  margin: 94px 888px 33px 888px;
 
   font-weight: 600;
   font-size: 30px;
   line-height: 37px;
-  /* identical to box height */
-
-  display: flex;
-  align-items: center;
 
   color: #d2202c;
 }
@@ -166,6 +241,8 @@ gap: 20px;
   height: 210px;
   left: 405px;
   top: 1916px;
+
+  margin: 0px 405px 776px 405px;
 
   background: #f5f5f7;
   border-radius: 20px;
@@ -187,7 +264,6 @@ gap: 20px;
 
 .parceiros-container p {
   margin-top: 30px;
-  margin-bottom: 30px;
 
   font-weight: 600;
   font-size: 18px;

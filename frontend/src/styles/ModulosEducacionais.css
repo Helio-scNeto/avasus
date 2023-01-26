@@ -1,0 +1,286 @@
+.path {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  width: 201px;
+  height: 20px;
+
+  margin: 130px 1314px -80px 405px;
+
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #808080;
+}
+
+.path li {
+  padding-right: 5px;
+}
+
+.lastLI {
+  font-weight: 800;
+}
+
+.titulo-2 {
+  position: absolute;
+  width: 461px;
+  height: 49px;
+  left: 730px;
+  top: 190px;
+
+  display: flex;
+  align-items: center;
+
+  color: #d2202c;
+}
+
+.modulos {
+  position: absolute;
+  display: flex;
+  margin: 0px 405px 30px 0px;
+  width: 1110px;
+  height: 35px;
+  left: 405px;
+  top: 269px;
+
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  list-style: none;
+
+  align-items: center;
+  white-space: nowrap;
+}
+
+.pages {
+  position: static;
+  width: 147px;
+  height: 20px;
+
+  margin: 250px 1368px 0px 405px;
+
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+  display: flex;
+  align-items: center;
+
+  color: #2f2e41;
+}
+
+.modulos li {
+  padding-right: 30px;
+  color: #2f2e41;
+}
+
+.modulos input {
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  list-style: none;
+
+  border: none;
+  background-color: #ffffff;
+}
+
+.cursos-2-Container {
+  width: 1320px;
+  height: 600px;
+  margin: 0px 405px 85px 380px;
+}
+
+.cursoListagem {
+  width: 350px;
+  height: 500px;
+
+  display: inline-block;
+  padding: 20px;
+
+  width: 400px;
+}
+
+.cursoCapaContainer {
+  position: static;
+  margin: 0px 0px 10px 0px;
+}
+
+.cursoCapa {
+  width: 350px;
+  height: 200px;
+  border-radius: 20px;
+}
+
+.cursoTitulo-container-2 {
+  display: flex;
+  position: relative;
+  align-items: center;
+
+  width: 350px;
+  height: 60px;
+
+  color: #2f2e41;
+
+  overflow: hidden;
+  text-overflow: "...";
+ 
+}
+
+.cursoTitulo-container-2 h1 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  top: 0;
+  left: 0;
+
+  white-space: wrap;
+  overflow: hidden;
+  text-overflow: clip;
+
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.cursoParceiros-2 {
+  position: static;
+  width: 98px;
+  height: 16px;
+
+  margin: 10px 0px 10px 0px;
+
+  font-weight: 600;
+  font-size: 13px;
+  line-height: 16px;
+
+  inline-size: 350px;
+
+  color: #f6303f;
+}
+
+.cursoStats-2 {
+  position: static;
+  display: flex;
+  align-items: center;
+  gap: 2rem;
+
+  width: 340px;
+  height: 19px;
+  left: 785px;
+  top: 690px;
+
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: #2f2e41;
+}
+
+.cursoMatriculado-2 {
+  display: flex;
+  align-items: center;
+}
+
+.cursoMatriculado-2 img {
+  position: static;
+  width: 24px;
+  height: 19px;
+  left: 21.09%;
+  right: 77.66%;
+  top: 30.28%;
+  bottom: 68.89%;
+
+  padding-right: 10px;
+}
+
+.cursoMatriculadosDiv {
+  font-style: normal;
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+}
+
+.cursoDuracao-2 {
+  display: flex;
+  align-items: center;
+}
+
+.cursoDuracao-2 img {
+  position: static;
+  width: 18px;
+  height: 18px;
+  left: 25.73%;
+  right: 73.33%;
+  top: 30.28%;
+  bottom: 68.93%;
+
+  padding-right: 10px;
+}
+
+.cursoDuracao-2-div {
+  position: static;
+  width: 21px;
+  height: 16px;
+
+  font-weight: 400;
+  font-size: 13px;
+  line-height: 16px;
+
+  color: #2f2e41;
+}
+
+.cursoAvalicao-2 {
+  display: flex;
+  align-items: center;
+
+  width: 144px;
+  height: 17px;
+  left: 601px;
+  top: 691px;
+}
+
+.ava-2 {
+  padding-left: 8px;
+}
+
+.cursoResumo {
+  position: static;
+  width: 350px;
+  height: 90px;
+  left: 405px;
+  top: 1203px;
+}
+
+.cursoResumo p {
+  font-weight: 500;
+  font-size: 15px;
+  line-height: 18px;
+  display: flex;
+  align-items: center;
+  color: #2f2e41;
+  padding: 17px 0px 0px 0px;
+}
+
+.btn-verCurso {
+  display: flex;
+  align-items: center;
+  position: static;
+  width: 87px;
+  height: 22px;
+  left: 668px;
+  top: 814px;
+
+  margin: 50px 0px 27px 225px;
+  border: none;
+  background-color: #ffffff;
+
+  font-weight: 600;
+  font-size: 17.6px;
+  line-height: 22px;
+
+  cursor: pointer;
+
+  color: #707070;
+}

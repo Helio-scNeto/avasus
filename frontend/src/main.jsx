@@ -10,14 +10,20 @@ import {
 
 //paginas
 import PaginaInicial from './routes/PaginaInicial';
-import PaginaDeListagem from './routes/PaginaDeListagem';
+import ModulosEducacionais from './routes/ModulosEducacionais';
+import Curso from './routes/Curso';
+import Parceiros from './routes/Parceiros';
+import SobreNos from './routes/SobreNos';
 
 const router = createBrowserRouter([
   {
     element: <App />,
     children: [
       { path: '/', element: <PaginaInicial /> },
-      { path: '/list', element: <PaginaDeListagem /> },
+      { path: 'cursos', element: <ModulosEducacionais/> },
+      { path: 'cursos/:id', element: <Curso/> },
+      { path: 'parceiros', element: <Parceiros/> },
+      { path: 'sobrenos', element: <SobreNos/> },
     ],
   },
 ]);
