@@ -76,7 +76,7 @@
   color: #2f2e41;
 }
 
-.modulos input {
+.modulos button {
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
@@ -89,7 +89,8 @@
 .cursos-2-Container {
   width: 1320px;
   height: 600px;
-  margin: 0px 405px 85px 380px;
+  margin: 0px 405px 200px 380px;
+  padding-bottom: 300px ;
 }
 
 .cursoListagem {

@@ -1,5 +1,5 @@
 import React, { useState, useEffect } from 'react';
-import axios from 'axios';
+import axios, { all } from 'axios';
 import '../styles/ModulosEducacionais.css';
 import Pagination from '../components/Pagination';
 import '../styles/Pagination.css';
@@ -8,19 +8,32 @@ import userIcon from '../assets/user-Icon.svg';
 import StarRating from '../components/StarRating';
 import { Link } from 'react-router-dom';
 
-
 function ModulosEducacionais() {
+  //Primeiro seting da API
   const [cursos, setCursos] = useState([]);
+  //filter
+  const [cursosFiltrados, setCursosFiltrados] = useState(cursos);
+  const [categoria, setCategoria] = useState('Covid 19');
+  //paginação
   const [itensPerPage, setItensPerpage] = useState(6);
   const [currentPage, setCurrentPage] = useState(0);
-  const url = 'http://localhost:3000/';
-
+  const [offset, setOffset] = useState(0);
   const pages = Math.ceil(cursos.length / itensPerPage);
-  const startIndex = currentPage * itensPerPage;
+  const startIndex = Math.ceil(currentPage * itensPerPage);
   const endIndex = startIndex + itensPerPage;
-  const currentItens = cursos.slice(startIndex, endIndex);
+
+  const handleCategory = () => {
+    return cursos.filter((curso) => curso.categoria == categoria);
+  };
+
+  useEffect(() => {
+    var filterData = handleCategory();
+    setCursosFiltrados(filterData);
+    console.log(filterData);
+  }, [categoria, cursos]);
 
   async function getCursos() {
+    const url = 'http://localhost:3000/';
     try {
       const response = await axios.get(url + 'cursos');
       const data = response.data;
@@ -40,27 +53,57 @@ function ModulosEducacionais() {
         <li>/</li>
         <li>Cursos </li>
         <li>/</li>
-        <li className='lastLI'> Módulos</li>
+        <li className="lastLI"> Módulos</li>
       </div>
       <div className="titulo-2">
         <h1>Módulos Educacionais</h1>
       </div>
       <div className="modulos">
         <li>
-          <input type="button" value="COVID-19"></input>
+          <button
+            onClick={(e) => setCategoria(e.target.value)}
+            value={'Covid 19'}
+          >
+            COVID-19
+          </button>
         </li>
-        <li>Sífilis e outras ist's</li>
-        <li>Preceptoria</li>
+        <li>
+          <button
+            onClick={(e) => setCategoria(e.target.value)}
+            value={'Síflis e outras ist'}
+          >
+            Sífilis e outras ist's
+          </button>
+        </li>
+        <li>
+          <button
+            onClick={(e) => setCategoria(e.target.value)}
+            value={'Preceptoria'}
+          >
+            Preceptoria
+          </button>
+        </li>
         <li>Doenças raras</li>
         <li>Web Palestras</li>
-        <li>Sistema prisional</li>
+        <li>
+          <button
+            onClick={(e) => setCategoria(e.target.value)}
+            value={'Sistema Prisional'}
+          >
+            Sistema Prisional
+          </button>
+        </li>
         <li>OPAS</li>
       </div>
-      <div className='pages'> {`${currentPage +1} de ${pages} resultados`}</div>
+      <div className="pages">
+        {' '}
+        {`${currentPage + 1} de ${pages} resultados`}
+      </div>
       <div className="cursos-2-Container">
-        {currentItens.map((curso) => (
+        {cursosFiltrados && cursosFiltrados
+        .slice(startIndex, endIndex).map((curso) => (
           <div className="cursoListagem" key={curso.id}>
-            <div className='cursoCapaContainer'>
+            <div className="cursoCapaContainer">
               <img
                 className="cursoCapa"
                 src={curso.capa}
@@ -70,7 +113,7 @@ function ModulosEducacionais() {
             <div>
               <div className="cursoTitulo-container-2">
                 <h1>{curso.titulo}</h1>
-                </div>
+              </div>
               <div className="cursoParceiros-2">
                 {curso.parceiros}
               </div>
@@ -106,7 +149,14 @@ function ModulosEducacionais() {
           </div>
         ))}
       </div>
-      <Pagination pages={pages} currentPage={currentPage} setCurrentPage={setCurrentPage} />
+      <Pagination
+        itensPerPage={itensPerPage}
+        pages={pages}
+        currentPage={currentPage}
+        setCurrentPage={setCurrentPage}
+        offset={offset}
+        setOffset={setOffset}
+      />
     </div>
   );
 }

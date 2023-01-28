@@ -5,7 +5,7 @@ function StarRating({avaliacao}) {
     <div>
       <Rating
         name="half-rating-read"
-        defaultValue={avaliacao}
+        defaultValue={Number(avaliacao)}
         precision={0.1}
         readOnly
       />

@@ -1,18 +1,16 @@
-
 .pagination {
   position: static;
   display: flex;
   align-items: center;
   width: 343px;
   height: 40px;
+  left: 788px;
+  top: 1397px;
 
-  margin: 350px 789px 198px 788px;
-
-  background-color: green;
-  margin-left: 150px;
+  margin: 79px 789px 198px 803px;
 }
 
-.pagination button {
+.pagination-btn-historia2 {
   width: 40px;
   height: 40px;
   left: 827px;
@@ -28,8 +26,27 @@
   border-radius: 0px;
 }
 
+.pagination-btnProximo-historia2 {
+  box-sizing: border-box;
+  position: static;
+
+  width: 109px;
+  height: 40px;
+  left: 1022px;
+  top: 1397px;
+  
+  font-weight: 600;
+  font-size: 16px;
+  line-height: 20px;
+  color: #000000;
+
+  background: #fafafa;
+  border: 1px solid #d9d9d9;
+  border-radius: 0px 10px 10px 0px;
+}
+
 .pagination__item--active {
-  background-color: #D2202C;
+  background-color: #d2202c;
 }
 
 .pagination__item--active + li {

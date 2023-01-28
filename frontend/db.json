@@ -2,7 +2,7 @@
   "cursos": [
     {
       "id": 1,
-      "cateroria": "Especialização",
+      "categoria": "Especialização",
       "capa": "https://avasus.ufrn.br/pluginfile.php/952815/course/thumbimage//PEPSUS_379x220.jpg",
       "titulo": "Curso de Especialização em Saúde da Família (PEPSUS) Turma 6",
       "parceiros": "UFRN / SEDIS / LAIS / PEPSUS / MS",
@@ -56,7 +56,7 @@
     },
     {
       "id": 2,
-      "cateroria": "Especialização",
+      "categoria": "Especialização",
       "capa": "https://avasus.ufrn.br/pluginfile.php/732574/course/thumbimage//imagem_capa_info%20em%20saude.jpg",
       "titulo": "Especialização em Informática na Saúde",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -95,7 +95,7 @@
     },
     {
       "id": 3,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/932684/course/thumbimage//Imagem_capa.png",
       "titulo": "Sífilis: Vigilância Epidemiológica",
       "parceiros": "UFRN / SEDIS / LAIS / CEIS 20 / UC / SESAP / EBSERH / Governo do RN / UaB-PT / MS",
@@ -164,7 +164,7 @@
     },
     {
       "id": 4,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/911730/course/thumbimage//WhatsApp%20Image%202022-06-14%20at%2008.47.22.jpeg",
       "titulo": "Sífilis: Aspectos Clínicos e Diagnóstico Diferencial",
       "parceiros": "UFRN / SEDIS / LAIS / HUOL / EBSERH / UC / MS",
@@ -216,7 +216,7 @@
     },
     {
       "id": 5,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/878742/course/thumbimage//Foto_Capa_Poli%CC%81tica%20de%20Atenc%CC%A7a%CC%83o.jpeg",
       "titulo": "Políticas de atenção à saúde no sistema prisional",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -275,7 +275,7 @@
     },
     {
       "id": 6,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/878059/course/thumbimage//Foto_Capa_O_policial_penal.jpeg",
       "titulo": "O Policial Penal e a Saúde em Ambientes de Privação de Liberdade",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -336,7 +336,7 @@
     },
     {
       "id": 7,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/876943/course/thumbimage//capa-frente.jpg",
       "titulo": "Conversando com pessoas privadas de liberdade sobre saúde: cuidados, promoção da saúde, direitos e cidadania",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -394,7 +394,7 @@
     },
     {
       "id": 8,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/871118/course/thumbimage//Foto_Capa_manejo_do_aleitamento_materno.png",
       "titulo": "Curso Teórico de Manejo do Aleitamento Materno",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -436,7 +436,7 @@
     },
     {
       "id": 9,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/858370/course/thumbimage//BANNER%20AVASUS%20CURSO%20IST_Prancheta%201%20co%CC%81pia%20%281%29.png",
       "titulo": "Course on Comprehensive Care for People with Sexually Transmitted Infections",
       "parceiros": "OPAS / UFRN / SEDIS / LAIS / NAVI / IFRN / MS",
@@ -496,7 +496,7 @@
     },
     {
       "id": 10,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/850929/course/thumbimage//BANNER%20AVASUS%20CURSO%20IST_Prancheta%201%20%281%29.png",
       "titulo": "Curso de atención integral para personas con infecciones de transmisión sexual",
       "parceiros": "IFRN / NAVI / OPAS / UFRN / SEDIS / LAIS / MS",
@@ -557,7 +557,7 @@
     },
     {
       "id": 11,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/847932/course/thumbimage//Ingle%CC%82s%20OPAS.jpg",
       "titulo": "Social Protection for People with Syphilis, HIV/AIDS, Viral Hepatitis, Tuberculosis, or Hansen's Disease in Situations of Social Vulnerability",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -612,7 +612,7 @@
     },
     {
       "id": 12,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/847862/course/thumbimage//Espanhol%20OPAS.jpg",
       "titulo": "Protección social de personas en situación de vulnerabilidad social con sífilis, VIH / SIDA, hepatitis viral, tuberculosis o lepra",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -667,7 +667,7 @@
     },
     {
       "id": 13,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/845329/course/thumbimage//Foto_Capa_Autocuidado.png",
       "titulo": "RevELAndo o AUTOCUIDADO para cuidadores de pessoas com ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -707,7 +707,7 @@
     },
     {
       "id": 14,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/839991/course/thumbimage//Foto_Capa_RevELAndo-a-sau%CC%81de-bucal.png",
       "titulo": "RevELAndo a boa saúde bucal na Esclerose Lateral Amiotrófica",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -746,7 +746,7 @@
     },
     {
       "id": 15,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827535/course/thumbimage//mini%20avasus__Prancheta%201%20co%CC%81pia.jpg",
       "titulo": "Curso de atenção integral às pessoas com infecções sexualmente transmissíveis",
       "parceiros": "UFRN / SEDIS / LAIS / NAVI / IFRN / OPAS / MS",
@@ -807,7 +807,7 @@
     },
     {
       "id": 16,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827138/course/thumbimage//379x221.jpg",
       "titulo": "Curso autoinstrucional para a formação e disseminação do Protocolo Clínico e Diretrizes Terapêuticas para o Manejo das Infecções Sexualmente Transmissíveis produzido pelo Ministério da Saúde",
       "parceiros": "UFRN / IFRN / OPAS / LAIS / SEDIS / NAVI / MS",
@@ -866,7 +866,7 @@
     },
     {
       "id": 17,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827133/course/thumbimage//capa_protecao%20social.jpg",
       "titulo": "Proteção Social das pessoas em situação de vulnerabilidade social com Sífilis, HIV/AIDS, Hepatites Virais, Tuberculose ou Hanseníase",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -917,7 +917,7 @@
     },
     {
       "id": 18,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/814638/course/thumbimage//Foto_Capa_Orientac%CC%A7o%CC%83es_Nutricionais_ELA.png",
       "titulo": "Orientações nutricionais específicas na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -956,7 +956,7 @@
     },
     {
       "id": 19,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/814616/course/thumbimage//Foto_Capa_Alimentac%CC%A7a%CC%83o-por-sonda-na-ELA.png",
       "titulo": "Alimentação por sonda na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -995,7 +995,7 @@
     },
     {
       "id": 20,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/814303/course/thumbimage//Foto_Capa_Cuidados-Respirato%CC%81rios%20na%20ELA.png",
       "titulo": "Cuidadores na Assistência ao Paciente – Cuidados respiratórios na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1031,7 +1031,7 @@
     },
     {
       "id": 21,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/812132/course/thumbimage//imagem_capa%20%285%29.jpg",
       "titulo": "Avaliação Básica Por Imagem Das Doenças Do Sistema Musculoesquelético",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1071,7 +1071,7 @@
     },
     {
       "id": 22,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/806833/course/thumbimage//Foto_Capa_Modificac%CC%A7o%CC%83es_Dieteticas_ELA.png",
       "titulo": "Modificações Dietéticas na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1111,7 +1111,7 @@
     },
     {
       "id": 23,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/806065/course/thumbimage//Foto_Capa_Alimentac%CC%A7a%CC%83o_Nutric%CC%A7a%CC%83o_ELA.png",
       "titulo": "Alimentação e Nutrição na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1152,7 +1152,7 @@
     },
     {
       "id": 24,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/776877/course/thumbimage//CAPA_farmacia.jpg",
       "titulo": "Farmácia Clínica: uma abordagem sobre gestação de alto risco e terapia intensiva neonatal",
       "parceiros": "UFRN / SEDIS / LAIS / EBSERH / MEJC / MS",
@@ -1198,7 +1198,7 @@
     },
     {
       "id": 25,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/776843/course/thumbimage//Capa_Gesta%CC%83o%20euip%20med%20assitenciais.png",
       "titulo": "Gestão de Equipamentos Médico-Assistenciais",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1237,7 +1237,7 @@
     },
     {
       "id": 26,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/771094/course/thumbimage//Obesidade-Infantil---Capa-Avasus.jpg",
       "titulo": "Obesidade Infantil: Uma visão global da prevenção e controle na Atenção Primária",
       "parceiros": "Telessaúde Goiás / NUTTs / UFRN / SEDIS / LAIS / MS",
@@ -1284,7 +1284,7 @@
     },
     {
       "id": 27,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/769586/course/thumbimage//1seminario_capa.jpg",
       "titulo": "1° Seminário Internacional de Pesquisa Brasil, Portugal e Espanha: o Projeto “Sífilis Não” na Perspectiva da Formação Humana em Saúde",
       "parceiros": "LAIS / SEDIS / UFRN / SífilisNão / NESC / FUNPEC / OPAS / UC / UCM / UAB / UAb / MS",
@@ -1355,7 +1355,7 @@
     },
     {
       "id": 28,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/749325/course/thumbimage//imagem%20de%20capa.jpg",
       "titulo": "covid-19: capacitação para vacinadores",
       "parceiros": "UFRN / SEDIS / LAIS / DEB / SESAP / RN Mais Vacinas / UERN / MS",
@@ -1416,7 +1416,7 @@
     },
     {
       "id": 29,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/747163/course/thumbimage//CAPA_apoiadores.jpg",
       "titulo": "Curso para Apoiadores com Ênfase no Projeto 'Sífilis Não'",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / SífilisNão / MS",
@@ -1464,7 +1464,7 @@
     },
     {
       "id": 30,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/747008/course/thumbimage//imagem_02_sifilis_capa.jpg",
       "titulo": "Infecções Sexualmente Transmissíveis (IST): Atualizando Conhecimentos",
       "parceiros": "UFRN / SEDIS / LAIS / HUOL / EBSERH / UC / CEIS 20 / MS",
@@ -1520,7 +1520,7 @@
     },
     {
       "id": 31,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/730923/course/thumbimage//Imagem_capa.jpg",
       "titulo": "Primeira Infância e intersetorialiedade",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1560,7 +1560,7 @@
     },
     {
       "id": 32,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722909/course/thumbimage//Foto_Capa_RevELAndo-cuidados-motores.png",
       "titulo": "RevELAndo cuidados motores sobre a Esclerose Lateral Amiotrófica",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1599,7 +1599,7 @@
     },
     {
       "id": 33,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722836/course/thumbimage//Foto_Capa_Fisioterapia-Respirato%CC%81ria-na-ELA.png",
       "titulo": "Fisioterapia Respiratória na Esclerose Lateral Amiotrófica (ELA)",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1639,7 +1639,7 @@
     },
     {
       "id": 34,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722802/course/thumbimage//Foto-Capa_Revelando-a-ELA.png",
       "titulo": "RevELAndo a Esclerose Lateral Amiotrófica para Cuidadores",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -1678,7 +1678,7 @@
     },
     {
       "id": 35,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722713/course/thumbimage//VFSS_sifilis%20e%20hiv_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: sífilis e HIV: amigos ou inimigos?",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1716,7 +1716,7 @@
     },
     {
       "id": 36,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722644/course/thumbimage//VFSS_sifilis%20adquirida_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: sífilis adquirida",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1754,7 +1754,7 @@
     },
     {
       "id": 37,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722485/course/thumbimage//VFSS_risco%20de%20infeccao_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: risco de infecção",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1792,7 +1792,7 @@
     },
     {
       "id": 38,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721536/course/thumbimage//VFSS_esclarecendo%20duvidas_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: esclarecendo dúvidas sobre a sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1830,7 +1830,7 @@
     },
     {
       "id": 39,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721205/course/thumbimage//VFSS_epidemia%20seculo%2021_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: epidemia de sífilis no século 21",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1869,7 +1869,7 @@
     },
     {
       "id": 40,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721177/course/thumbimage//VFSS_conhecendo%20sintomas_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: conhecendo os sintomas da sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1908,7 +1908,7 @@
     },
     {
       "id": 41,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721101/course/thumbimage//VFSS_comportamento_capa.jpg",
       "titulo": "Vamos falar sobre Sífilis: comportamento e educação na prevenção à sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1946,7 +1946,7 @@
     },
     {
       "id": 42,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721078/course/thumbimage//VFSS_cenario%20sifilis%20no%20BR_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: cenário da sífilis no Brasil",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -1985,7 +1985,7 @@
     },
     {
       "id": 43,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/717770/course/thumbimage//CAPA_2cirurgia%20seg.jpg",
       "titulo": "Cirurgia Segura",
       "parceiros": "UFRN / SEDIS / LAIS / MEJC / EBSERH / MS",
@@ -2033,7 +2033,7 @@
     },
     {
       "id": 44,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/717493/course/thumbimage//desenv_vacinas_capa.jpg",
       "titulo": "Desenvolvimento de vacinas e terapias para o enfrentamento da covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / MS",
@@ -2091,7 +2091,7 @@
     },
     {
       "id": 45,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/705046/course/thumbimage//pandemia%20em%20ILPI_capa.jpg",
       "titulo": "A pandemia da covid-19 no contexto das Instituições de Longa Permanência para Idosos",
       "parceiros": "UFRN / HUOL / EBSERH / REDE / DEB / ICDE / OPAS / SEDIS / LAIS / QualiSaúde / Grupo Longeviver / TelessaúdeRN / MS",
@@ -2168,7 +2168,7 @@
     },
     {
       "id": 46,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/701382/course/thumbimage//capa%20aleitamento.jpg",
       "titulo": "Aleitamento Materno no Contexto da covid-19",
       "parceiros": "UFRN / LAIS / HUOL / EBSERH / REDE / DEB / OPAS / ICDE / SEDIS / MS",
@@ -2232,7 +2232,7 @@
     },
     {
       "id": 47,
-      "cateroria": "Módulo de extensão",
+      "categoria": "Módulo de extensão",
       "capa": "https://avasus.ufrn.br/pluginfile.php/695957/course/thumbimage//capa%20Classif.png",
       "titulo": "Classificação de Documentos",
       "parceiros": "LAIS / SEDIS / UFRN / MS",
@@ -2267,7 +2267,7 @@
     },
     {
       "id": 48,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827133/course/thumbimage//capa_protecao%20social.jpg",
       "titulo": "Proteção Social das pessoas em situação de vulnerabilidade social com Sífilis, HIV/AIDS, Hepatites Virais, Tuberculose ou Hanseníase",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -2318,7 +2318,7 @@
     },
     {
       "id": 49,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721177/course/thumbimage//VFSS_conhecendo%20sintomas_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: conhecendo os sintomas da sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -2357,7 +2357,7 @@
     },
     {
       "id": 50,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673276/course/thumbimage//estrategias_capa.jpg",
       "titulo": "Estratégias para erradicação do HIV e Sífilis",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -2396,7 +2396,7 @@
     },
     {
       "id": 51,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/671293/course/thumbimage//corrimento_capa.jpg",
       "titulo": "Infecções que causam corrimento vaginal",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -2439,7 +2439,7 @@
     },
     {
       "id": 52,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/747008/course/thumbimage//imagem_02_sifilis_capa.jpg",
       "titulo": "Infecções Sexualmente Transmissíveis (IST): Atualizando Conhecimentos",
       "parceiros": "UFRN / SEDIS / LAIS / HUOL / EBSERH / UC / CEIS 20 / MS",
@@ -2495,7 +2495,7 @@
     },
     {
       "id": 53,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/847862/course/thumbimage//Espanhol%20OPAS.jpg",
       "titulo": "Protección social de personas en situación de vulnerabilidad social con sífilis, VIH / SIDA, hepatitis viral, tuberculosis o lepra",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -2550,7 +2550,7 @@
     },
     {
       "id": 54,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/518427/course/thumbimage//imagem%20capa.jpg",
       "titulo": "Sífilis: Patogênese, desenvolvimento da resposta imune e métodos diagnósticos",
       "parceiros": "LAIS / SEDIS / UFRN / MS",
@@ -2584,7 +2584,7 @@
     },
     {
       "id": 55,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/672919/course/thumbimage//hepatite%20a_capa.jpg",
       "titulo": "Hepatite A em homens que fazem sexo com homens (HSH)",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -2622,7 +2622,7 @@
     },
     {
       "id": 56,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/654178/course/thumbimage//vigilancia_capa.jpg",
       "titulo": "Vigilância Epidemiológica das IST – Sífilis",
       "parceiros": "SBDST / OPAS / UFRN / LAIS / MS",
@@ -2661,7 +2661,7 @@
     },
     {
       "id": 57,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/876943/course/thumbimage//capa-frente.jpg",
       "titulo": "Conversando com pessoas privadas de liberdade sobre saúde: cuidados, promoção da saúde, direitos e cidadania",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -2719,7 +2719,7 @@
     },
     {
       "id": 58,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721205/course/thumbimage//VFSS_epidemia%20seculo%2021_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: epidemia de sífilis no século 21",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -2758,7 +2758,7 @@
     },
     {
       "id": 59,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673334/course/thumbimage//cervicite_capa.jpg",
       "titulo": "Infecções que causam cervicite",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -2800,7 +2800,7 @@
     },
     {
       "id": 60,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673184/course/thumbimage//sifilis%20e%20gonorreia_capa.jpg",
       "titulo": "Sífilis e Gonorreia no Brasil - Gonococo no Brasil",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -2839,7 +2839,7 @@
     },
     {
       "id": 61,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/501254/course/thumbimage//capa%20do%20modulo%20%281%29.jpg",
       "titulo": "A dinâmica vigilância/assistência em tempos de epidemia de sífilis: problemas atuais e perspectivas",
       "parceiros": "UFRN / NESC / SEDIS / LAIS / MS",
@@ -2876,7 +2876,7 @@
     },
     {
       "id": 62,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/878742/course/thumbimage//Foto_Capa_Poli%CC%81tica%20de%20Atenc%CC%A7a%CC%83o.jpeg",
       "titulo": "Políticas de atenção à saúde no sistema prisional",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -2935,7 +2935,7 @@
     },
     {
       "id": 63,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/671295/course/thumbimage//transmissao%20vertical_capa.jpg",
       "titulo": "Transmissão Vertical da Sífilis",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -2976,7 +2976,7 @@
     },
     {
       "id": 64,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/747163/course/thumbimage//CAPA_apoiadores.jpg",
       "titulo": "Curso para Apoiadores com Ênfase no Projeto 'Sífilis Não'",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / SífilisNão / MS",
@@ -3024,7 +3024,7 @@
     },
     {
       "id": 65,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721536/course/thumbimage//VFSS_esclarecendo%20duvidas_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: esclarecendo dúvidas sobre a sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -3062,7 +3062,7 @@
     },
     {
       "id": 66,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/509367/course/thumbimage//imagem_capa%20%283%29.jpg",
       "titulo": "Sífilis Congênita: do pré-natal ao acompanhamento ambulatorial",
       "parceiros": "LAIS / SEDIS / NESC / UFRN / MS",
@@ -3102,7 +3102,7 @@
     },
     {
       "id": 67,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678563/course/thumbimage//pre%20natal%20e%20puerperio%20covid_capa.jpg",
       "titulo": "Pré-Natal e Puerpério em tempos de pandemia da covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / SESAP / MS",
@@ -3166,7 +3166,7 @@
     },
     {
       "id": 68,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827535/course/thumbimage//mini%20avasus__Prancheta%201%20co%CC%81pia.jpg",
       "titulo": "Curso de atenção integral às pessoas com infecções sexualmente transmissíveis",
       "parceiros": "UFRN / SEDIS / LAIS / NAVI / IFRN / OPAS / MS",
@@ -3227,7 +3227,7 @@
     },
     {
       "id": 69,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/124320/course/thumbimage//imagem%20de%20capa.jpg",
       "titulo": "Atenção à Saúde da pessoa privada de liberdade",
       "parceiros": "SEDIS / LAIS / UFRN / PEPSUS / MS",
@@ -3270,7 +3270,7 @@
     },
     {
       "id": 70,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/686062/course/thumbimage//ulcera%20genital_capa.jpg",
       "titulo": "Infecções que causam úlcera genital",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -3309,7 +3309,7 @@
     },
     {
       "id": 71,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/687824/course/thumbimage//INFECCAO%20POR%20HPV_CAPA.jpg",
       "titulo": "Infecção por HPV",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -3348,7 +3348,7 @@
     },
     {
       "id": 72,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722644/course/thumbimage//VFSS_sifilis%20adquirida_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: sífilis adquirida",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -3386,7 +3386,7 @@
     },
     {
       "id": 73,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673219/course/thumbimage//sifilis%20no%20brasil_capa.jpg",
       "titulo": "Sífilis no Brasil - novo protocolo: diagnóstico e tratamento",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -3425,7 +3425,7 @@
     },
     {
       "id": 74,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/911730/course/thumbimage//WhatsApp%20Image%202022-06-14%20at%2008.47.22.jpeg",
       "titulo": "Sífilis: Aspectos Clínicos e Diagnóstico Diferencial",
       "parceiros": "UFRN / SEDIS / LAIS / HUOL / EBSERH / UC / MS",
@@ -3477,7 +3477,7 @@
     },
     {
       "id": 75,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/850929/course/thumbimage//BANNER%20AVASUS%20CURSO%20IST_Prancheta%201%20%281%29.png",
       "titulo": "Curso de atención integral para personas con infecciones de transmisión sexual",
       "parceiros": "IFRN / NAVI / OPAS / UFRN / SEDIS / LAIS / MS",
@@ -3538,7 +3538,7 @@
     },
     {
       "id": 76,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/686108/course/thumbimage//testes%20diagnosticos_capa.jpg",
       "titulo": "Testes para diagnóstico da sífilis",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -3576,7 +3576,7 @@
     },
     {
       "id": 77,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/847932/course/thumbimage//Ingle%CC%82s%20OPAS.jpg",
       "titulo": "Social Protection for People with Syphilis, HIV/AIDS, Viral Hepatitis, Tuberculosis, or Hansen's Disease in Situations of Social Vulnerability",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -3631,7 +3631,7 @@
     },
     {
       "id": 78,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/672950/course/thumbimage//ist%20e%20hpv_capa.jpg",
       "titulo": "Infecções Sexualmente Transmissíveis (IST) e HPV",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -3670,7 +3670,7 @@
     },
     {
       "id": 79,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721078/course/thumbimage//VFSS_cenario%20sifilis%20no%20BR_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: cenário da sífilis no Brasil",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -3709,7 +3709,7 @@
     },
     {
       "id": 80,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827138/course/thumbimage//379x221.jpg",
       "titulo": "Curso autoinstrucional para a formação e disseminação do Protocolo Clínico e Diretrizes Terapêuticas para o Manejo das Infecções Sexualmente Transmissíveis produzido pelo Ministério da Saúde",
       "parceiros": "UFRN / IFRN / OPAS / LAIS / SEDIS / NAVI / MS",
@@ -3768,7 +3768,7 @@
     },
     {
       "id": 81,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/316269/course/thumbimage//imagem_capa%20%285%29.jpg",
       "titulo": "O cuidado de pessoas com HIV/aids na Atenção Básica",
       "parceiros": "NESC / UFRN / SEDIS / LAIS / MPES / MS",
@@ -3815,7 +3815,7 @@
     },
     {
       "id": 82,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/776877/course/thumbimage//CAPA_farmacia.jpg",
       "titulo": "Farmácia Clínica: uma abordagem sobre gestação de alto risco e terapia intensiva neonatal",
       "parceiros": "UFRN / SEDIS / LAIS / EBSERH / MEJC / MS",
@@ -3861,7 +3861,7 @@
     },
     {
       "id": 83,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/654029/course/thumbimage//capa_adquirida.jpg",
       "titulo": "Sífilis Adquirida",
       "parceiros": "SBDST / OPAS / UFRN / LAIS / MS",
@@ -3900,7 +3900,7 @@
     },
     {
       "id": 84,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/409660/course/thumbimage//imagem%20capa.jpg",
       "titulo": "Uma Visita Virtual à 2ª Conferência Internacional de Inovação em Saúde",
       "parceiros": "LAIS / NESC / SEDIS / UFRN / FUNCERN / ABIMO / SífilisNão / DEB / HUOL / EBSERH / NAVI / FUNPEC / AU / UL / UaB-PT / REDE / ICDE / SUS / MS",
@@ -3999,7 +3999,7 @@
     },
     {
       "id": 85,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/525016/course/thumbimage//img379x220.jpg",
       "titulo": "Profilaxia Pré Exposição (PrEP) de Risco de Infecção pelo HIV: Capacitação para Profissionais de Saúde.",
       "parceiros": "PEPFAR / LAIS / UFRN / ICAP / FIOTEC / DCCI / MS",
@@ -4052,7 +4052,7 @@
     },
     {
       "id": 86,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673143/course/thumbimage//profilaxia_capa.jpg",
       "titulo": "Profilaxia Pré-exposição ao HIV (PREP)",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -4091,7 +4091,7 @@
     },
     {
       "id": 87,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/508600/course/thumbimage//imagem_capa%20%282%29.jpg",
       "titulo": "Metodologia de Pesquisa Científica para Apoiadores",
       "parceiros": "UFRN / NESC / SEDIS / LAIS / MS",
@@ -4135,7 +4135,7 @@
     },
     {
       "id": 88,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722713/course/thumbimage//VFSS_sifilis%20e%20hiv_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: sífilis e HIV: amigos ou inimigos?",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -4173,7 +4173,7 @@
     },
     {
       "id": 89,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/368302/course/thumbimage//_imagem%20capa_modulo2.jpg",
       "titulo": "Atenção Primária à Saúde, Estratégia de Saúde da Família e Territorialização - Autoinstrucional",
       "parceiros": "LAIS / SEDIS / PEPSUS / UFRN / MS",
@@ -4226,7 +4226,7 @@
     },
     {
       "id": 90,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/12848/course/thumbimage//LGBT%28220%29.jpg",
       "titulo": "Política Nacional de Saúde Integral LGBT",
       "parceiros": "UERJ / UNA-SUS/RJ / UNA-SUS / Fiocruz / SUS / MS",
@@ -4273,7 +4273,7 @@
     },
     {
       "id": 91,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/932684/course/thumbimage//Imagem_capa.png",
       "titulo": "Sífilis: Vigilância Epidemiológica",
       "parceiros": "UFRN / SEDIS / LAIS / CEIS 20 / UC / SESAP / EBSERH / Governo do RN / UaB-PT / MS",
@@ -4342,7 +4342,7 @@
     },
     {
       "id": 92,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/769586/course/thumbimage//1seminario_capa.jpg",
       "titulo": "1° Seminário Internacional de Pesquisa Brasil, Portugal e Espanha: o Projeto “Sífilis Não” na Perspectiva da Formação Humana em Saúde",
       "parceiros": "LAIS / SEDIS / UFRN / SífilisNão / NESC / FUNPEC / OPAS / UC / UCM / UAB / UAb / MS",
@@ -4413,7 +4413,7 @@
     },
     {
       "id": 93,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/166923/course/thumbimage//imagem%20do%20modulo_CAPA.jpg",
       "titulo": "Clínica Ampliada e Apoio Matricial",
       "parceiros": "UFRN / SEDIS / LAIS / PEPSUS / MS",
@@ -4465,7 +4465,7 @@
     },
     {
       "id": 94,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/676599/course/thumbimage//lei%20protecao_capa.jpg",
       "titulo": "Lei Geral de Proteção de Dados (LGPD): conceitos e aplicações na área da saúde",
       "parceiros": "UFRN / LAIS / NESC / SEDIS / MS",
@@ -4503,7 +4503,7 @@
     },
     {
       "id": 95,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673367/course/thumbimage//corrimento%20uretral_capa.jpg",
       "titulo": "Infecções que causam corrimento uretral",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -4546,7 +4546,7 @@
     },
     {
       "id": 96,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/370296/course/thumbimage//imagem%20de%20capa%20%281%29.jpg",
       "titulo": "Sífilis: senta que lá vem informação!",
       "parceiros": "SEDIS / LAIS / NESC / UFRN / MS",
@@ -4592,7 +4592,7 @@
     },
     {
       "id": 97,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721101/course/thumbimage//VFSS_comportamento_capa.jpg",
       "titulo": "Vamos falar sobre Sífilis: comportamento e educação na prevenção à sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -4630,7 +4630,7 @@
     },
     {
       "id": 98,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722485/course/thumbimage//VFSS_risco%20de%20infeccao_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: risco de infecção",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -4668,7 +4668,7 @@
     },
     {
       "id": 99,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/878059/course/thumbimage//Foto_Capa_O_policial_penal.jpeg",
       "titulo": "O Policial Penal e a Saúde em Ambientes de Privação de Liberdade",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -4729,7 +4729,7 @@
     },
     {
       "id": 100,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/368297/course/thumbimage//imagem_capa.png",
       "titulo": "Observação na Unidade de Saúde - Autoinstrucional",
       "parceiros": "LAIS / SEDIS / PEPSUS / UFRN / MS",
@@ -4782,7 +4782,7 @@
     },
     {
       "id": 101,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/686247/course/thumbimage//doenca%20inflamatoria%20pelvica_capa.jpg",
       "titulo": "Doença inflamatória pélvica",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -4821,7 +4821,7 @@
     },
     {
       "id": 102,
-      "cateroria": "Síflis e outras ist",
+      "categoria": "Síflis e outras ist",
       "capa": "https://avasus.ufrn.br/pluginfile.php/858370/course/thumbimage//BANNER%20AVASUS%20CURSO%20IST_Prancheta%201%20co%CC%81pia%20%281%29.png",
       "titulo": "Course on Comprehensive Care for People with Sexually Transmitted Infections",
       "parceiros": "OPAS / UFRN / SEDIS / LAIS / NAVI / IFRN / MS",
@@ -4881,7 +4881,7 @@
     },
     {
       "id": 103,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/629766/course/thumbimage//imagem%20de%20capa_pdf.png",
       "titulo": "covid-19: uso seguro de EPI",
       "parceiros": "UFRN / SEDIS / LAIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / SAMU / NEPeDE / SUS / Rebraensp / COREN / MS",
@@ -4965,7 +4965,7 @@
     },
     {
       "id": 104,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/717493/course/thumbimage//desenv_vacinas_capa.jpg",
       "titulo": "Desenvolvimento de vacinas e terapias para o enfrentamento da covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / MS",
@@ -5023,7 +5023,7 @@
     },
     {
       "id": 105,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/594942/course/thumbimage//capa_isolamento%20social.jpg",
       "titulo": "covid-19: Por que precisamos de isolamento físico?",
       "parceiros": "NESC / LAIS / SEDIS / UFRN / OPAS / EBSERH / HUOL / DEB / REDE / ICDE / MS",
@@ -5085,7 +5085,7 @@
     },
     {
       "id": 106,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/705046/course/thumbimage//pandemia%20em%20ILPI_capa.jpg",
       "titulo": "A pandemia da covid-19 no contexto das Instituições de Longa Permanência para Idosos",
       "parceiros": "UFRN / HUOL / EBSERH / REDE / DEB / ICDE / OPAS / SEDIS / LAIS / QualiSaúde / Grupo Longeviver / TelessaúdeRN / MS",
@@ -5162,7 +5162,7 @@
     },
     {
       "id": 107,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/542984/course/thumbimage//379x220px.png",
       "titulo": "Vírus respiratórios emergentes, incluindo a covid-19",
       "parceiros": "LAIS / UFRN / OPAS / SEDIS / EBSERH / HUOL / DEB / REDE / ICDE / MS",
@@ -5226,7 +5226,7 @@
     },
     {
       "id": 108,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/600235/course/thumbimage//PCI%20379x220.jpg",
       "titulo": "Prevenção e controle de infecções (PCI) causadas pelo novo coronavírus (covid-19)",
       "parceiros": "UFRN / LAIS / OPAS / SEDIS / EBSERH / HUOL / DEB / REDE / ICDE / MS",
@@ -5286,7 +5286,7 @@
     },
     {
       "id": 109,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/701382/course/thumbimage//capa%20aleitamento.jpg",
       "titulo": "Aleitamento Materno no Contexto da covid-19",
       "parceiros": "UFRN / LAIS / HUOL / EBSERH / REDE / DEB / OPAS / ICDE / SEDIS / MS",
@@ -5350,7 +5350,7 @@
     },
     {
       "id": 110,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/664299/course/thumbimage//imagem%20capa-3.jpg",
       "titulo": "Segurança e higienização em serviços hospitalares no combate à covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / CEFOPE / SESAP / MS",
@@ -5420,7 +5420,7 @@
     },
     {
       "id": 111,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/654456/course/thumbimage//fitopatogenese_capa.jpg",
       "titulo": "Principais aspectos clínicos e perspectivas terapêuticas para o tratamento de pacientes diagnosticados com a covid-19",
       "parceiros": "UFRN / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / LAIS / MS",
@@ -5477,7 +5477,7 @@
     },
     {
       "id": 112,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/624171/course/thumbimage//imagem_capa-2.jpg",
       "titulo": "covid-19: Cuidado de idosos em instituições de longa permanência",
       "parceiros": "UFRN / SEDIS / LAIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / NESC / SUS / MS",
@@ -5547,7 +5547,7 @@
     },
     {
       "id": 113,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/610527/course/thumbimage//imagem-capa_teste-covid.jpg",
       "titulo": "Instruções para execução do teste rápido para detecção de anticorpos contra o SARS-CoV-2",
       "parceiros": "SEDIS / UFRN / LAIS / MS",
@@ -5585,7 +5585,7 @@
     },
     {
       "id": 114,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678644/course/thumbimage//uso%20de%20antivirais_capa.jpg",
       "titulo": "Uso de antivirais na covid-19 – quais as evidências científicas?",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / MS",
@@ -5644,7 +5644,7 @@
     },
     {
       "id": 115,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678527/course/thumbimage//pandemia%20RN_capa.jpg",
       "titulo": "A pandemia do novo coronavírus no Rio Grande do Norte e seus impactos na sociedade",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / MS",
@@ -5703,7 +5703,7 @@
     },
     {
       "id": 116,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/603730/course/thumbimage//capa-2.jpg",
       "titulo": "covid-19: manejo do paciente com distúrbios respiratórios",
       "parceiros": "UFRN / SEDIS / LAIS / PneumoCardioVascular / OPAS / EBSERH / HUOL / DEB / REDE / ICDE / MS",
@@ -5769,7 +5769,7 @@
     },
     {
       "id": 117,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/631727/course/thumbimage//imagem%20capa-2.jpg",
       "titulo": "Proteção física e psicossocial no trabalho em saúde e áreas essenciais no enfrentamento à covid-19",
       "parceiros": "UFRN / SEDIS / LAIS / EBSERH / HUOL / DEB / REDE / OPAS / ICDE / CNS / SUS / MS",
@@ -5842,7 +5842,7 @@
     },
     {
       "id": 118,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678563/course/thumbimage//pre%20natal%20e%20puerperio%20covid_capa.jpg",
       "titulo": "Pré-Natal e Puerpério em tempos de pandemia da covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / SESAP / MS",
@@ -5906,7 +5906,7 @@
     },
     {
       "id": 119,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/654948/course/thumbimage//capa_covid%20portugal.jpg",
       "titulo": "As estratégias de Saúde em Portugal para o enfrentamento à covid-19",
       "parceiros": "LAIS / UFRN / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / MS",
@@ -5963,7 +5963,7 @@
     },
     {
       "id": 120,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/604563/course/thumbimage//capa-2.jpg",
       "titulo": "Manejo e acompanhamento do paciente com suspeita de coronavírus",
       "parceiros": "LAIS / NESC / SEDIS / UFRN / OPAS / TelessaúdeRN / MS",
@@ -6009,7 +6009,7 @@
     },
     {
       "id": 121,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/618586/course/thumbimage//capa_protocolo.jpg",
       "titulo": "covid-19: Protocolo de manejo clínico do coronavírus na Atenção Primária à Saúde",
       "parceiros": "UFRN / SEDIS / LAIS / HUOL / EBSERH / NESC / ICDE / DEB / REDE / OPAS / MS",
@@ -6075,7 +6075,7 @@
     },
     {
       "id": 122,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/749325/course/thumbimage//imagem%20de%20capa.jpg",
       "titulo": "covid-19: capacitação para vacinadores",
       "parceiros": "UFRN / SEDIS / LAIS / DEB / SESAP / RN Mais Vacinas / UERN / MS",
@@ -6136,7 +6136,7 @@
     },
     {
       "id": 123,
-      "cateroria": "Covid 19",
+      "categoria": "Covid 19",
       "capa": "https://avasus.ufrn.br/pluginfile.php/658687/course/thumbimage//imagem%20de%20capa-2.jpg",
       "titulo": "A proteção do Idoso em tempos de covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / MS",
@@ -6194,7 +6194,7 @@
     },
     {
       "id": 124,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652416/course/thumbimage//imagem_capa%20%288%29.jpg",
       "titulo": "Introdução às Metodologias Ativas",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6252,7 +6252,7 @@
     },
     {
       "id": 125,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652140/course/thumbimage//imagem%20capa%20%282%29.jpg",
       "titulo": "Princípios e Diretrizes no Sistema Único de Saúde",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / EBSERH / HUOL / UERJ / IFHT / MS",
@@ -6309,7 +6309,7 @@
     },
     {
       "id": 126,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652506/course/thumbimage//Capa_%20%281%29.png",
       "titulo": "Saúde na Comunidade: integração ensino-serviço",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6367,7 +6367,7 @@
     },
     {
       "id": 127,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652438/course/thumbimage//imagem_capa%20%289%29.jpg",
       "titulo": "Metodologias ativas 1: Aprendizagem Baseada em Problemas",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6434,7 +6434,7 @@
     },
     {
       "id": 128,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652446/course/thumbimage//Imagem_capa%20%2810%29.jpg",
       "titulo": "Metodologias Ativas 2: outras abordagens",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6491,7 +6491,7 @@
     },
     {
       "id": 129,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652488/course/thumbimage//Capa_Modalidades%20de%20avaliac%CC%A7a%CC%83o%20%281%29.jpg",
       "titulo": "Modalidades de Avaliação",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6550,7 +6550,7 @@
     },
     {
       "id": 130,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652267/course/thumbimage//imagem_capa%20%286%29.jpg",
       "titulo": "Segurança do paciente",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / EBSERH / HUOL / UERJ / IFHT / MS",
@@ -6608,7 +6608,7 @@
     },
     {
       "id": 131,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652467/course/thumbimage//Imagem_capa%20%282%29.png",
       "titulo": "Avaliação: conceitos, fundamentos e aplicação",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6684,7 +6684,7 @@
     },
     {
       "id": 132,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652301/course/thumbimage//Capa_mod%2005.jpg",
       "titulo": "Educação nos cenários de práticas",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6740,7 +6740,7 @@
     },
     {
       "id": 133,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652385/course/thumbimage//imagem_capa%20%287%29.jpg",
       "titulo": "Abordagem Introdutória de Preceptoria em Saúde",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6798,7 +6798,7 @@
     },
     {
       "id": 134,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652526/course/thumbimage//Capa_preceptoria%2053%20%281%29.png",
       "titulo": "Ambiente Hospitalar: ensino na prática",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / IFHT / EBSERH / HUOL / UERJ / MS",
@@ -6859,7 +6859,7 @@
     },
     {
       "id": 135,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652243/course/thumbimage//imagem_capa%20%285%29.jpg",
       "titulo": "Educação Permanente em Saúde: conceitos e fundamentos",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / EBSERH / HUOL / UERJ / IFHT / MS",
@@ -6916,7 +6916,7 @@
     },
     {
       "id": 136,
-      "cateroria": "Preceptoria",
+      "categoria": "Preceptoria",
       "capa": "https://avasus.ufrn.br/pluginfile.php/652121/course/thumbimage//imagem%20de%20capa%20%282%29.jpg",
       "titulo": "Conhecimentos Básicos de Educação a Distância",
       "parceiros": "UFRN / SEDIS / LAIS / ESUFRN / EBSERH / HUOL / UERJ / IFHT / MS",
@@ -6973,7 +6973,7 @@
     },
     {
       "id": 137,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689794/course/thumbimage//cuidados%20nutricionais%20capa.png",
       "titulo": "Cuidados nutricionais na ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7016,7 +7016,7 @@
     },
     {
       "id": 138,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722802/course/thumbimage//Foto-Capa_Revelando-a-ELA.png",
       "titulo": "RevELAndo a Esclerose Lateral Amiotrófica para Cuidadores",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7055,7 +7055,7 @@
     },
     {
       "id": 139,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689527/course/thumbimage//como%20diagnosticar%20capa.png",
       "titulo": "Como diagnosticar a ELA?",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7098,7 +7098,7 @@
     },
     {
       "id": 140,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/814616/course/thumbimage//Foto_Capa_Alimentac%CC%A7a%CC%83o-por-sonda-na-ELA.png",
       "titulo": "Alimentação por sonda na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7137,7 +7137,7 @@
     },
     {
       "id": 141,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689694/course/thumbimage//comunicacao%20e%20degluticao%20capa.png",
       "titulo": "Comunicação e Deglutição na ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7179,7 +7179,7 @@
     },
     {
       "id": 142,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/690239/course/thumbimage//tecnologias%20assistivas%20capa.png",
       "titulo": "Tecnologias assistivas para pacientes com ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7222,7 +7222,7 @@
     },
     {
       "id": 143,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/814303/course/thumbimage//Foto_Capa_Cuidados-Respirato%CC%81rios%20na%20ELA.png",
       "titulo": "Cuidadores na Assistência ao Paciente – Cuidados respiratórios na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7258,7 +7258,7 @@
     },
     {
       "id": 144,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/839991/course/thumbimage//Foto_Capa_RevELAndo-a-sau%CC%81de-bucal.png",
       "titulo": "RevELAndo a boa saúde bucal na Esclerose Lateral Amiotrófica",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7297,7 +7297,7 @@
     },
     {
       "id": 145,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722836/course/thumbimage//Foto_Capa_Fisioterapia-Respirato%CC%81ria-na-ELA.png",
       "titulo": "Fisioterapia Respiratória na Esclerose Lateral Amiotrófica (ELA)",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7337,7 +7337,7 @@
     },
     {
       "id": 146,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689397/course/thumbimage//aspectos%20psicologicos%20capa.png",
       "titulo": "Aspectos psicológicos da ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7380,7 +7380,7 @@
     },
     {
       "id": 147,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689337/course/thumbimage//ANDREA1.png",
       "titulo": "A assistência em saúde ao paciente com ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7423,7 +7423,7 @@
     },
     {
       "id": 148,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/690072/course/thumbimage//fisioterapia%20respiratoria%20capa.png",
       "titulo": "Fisioterapia respiratória no tratamento da ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7466,7 +7466,7 @@
     },
     {
       "id": 149,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/690031/course/thumbimage//fisio%20no%20tratamento%20capa.png",
       "titulo": "Fisioterapia no tratamento da ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -7509,7 +7509,7 @@
     },
     {
       "id": 150,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/845329/course/thumbimage//Foto_Capa_Autocuidado.png",
       "titulo": "RevELAndo o AUTOCUIDADO para cuidadores de pessoas com ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7549,7 +7549,7 @@
     },
     {
       "id": 151,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/814638/course/thumbimage//Foto_Capa_Orientac%CC%A7o%CC%83es_Nutricionais_ELA.png",
       "titulo": "Orientações nutricionais específicas na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7588,7 +7588,7 @@
     },
     {
       "id": 152,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722909/course/thumbimage//Foto_Capa_RevELAndo-cuidados-motores.png",
       "titulo": "RevELAndo cuidados motores sobre a Esclerose Lateral Amiotrófica",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7627,7 +7627,7 @@
     },
     {
       "id": 153,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/806833/course/thumbimage//Foto_Capa_Modificac%CC%A7o%CC%83es_Dieteticas_ELA.png",
       "titulo": "Modificações Dietéticas na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7667,7 +7667,7 @@
     },
     {
       "id": 154,
-      "cateroria": "Doenças raras",
+      "categoria": "Doenças raras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/806065/course/thumbimage//Foto_Capa_Alimentac%CC%A7a%CC%83o_Nutric%CC%A7a%CC%83o_ELA.png",
       "titulo": "Alimentação e Nutrição na ELA",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -7708,7 +7708,7 @@
     },
     {
       "id": 155,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722713/course/thumbimage//VFSS_sifilis%20e%20hiv_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: sífilis e HIV: amigos ou inimigos?",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7746,7 +7746,7 @@
     },
     {
       "id": 156,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722644/course/thumbimage//VFSS_sifilis%20adquirida_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: sífilis adquirida",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7784,7 +7784,7 @@
     },
     {
       "id": 157,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/722485/course/thumbimage//VFSS_risco%20de%20infeccao_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: risco de infecção",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7822,7 +7822,7 @@
     },
     {
       "id": 158,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721536/course/thumbimage//VFSS_esclarecendo%20duvidas_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: esclarecendo dúvidas sobre a sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7860,7 +7860,7 @@
     },
     {
       "id": 159,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721205/course/thumbimage//VFSS_epidemia%20seculo%2021_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: epidemia de sífilis no século 21",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7899,7 +7899,7 @@
     },
     {
       "id": 160,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721177/course/thumbimage//VFSS_conhecendo%20sintomas_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: conhecendo os sintomas da sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7938,7 +7938,7 @@
     },
     {
       "id": 161,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721101/course/thumbimage//VFSS_comportamento_capa.jpg",
       "titulo": "Vamos falar sobre Sífilis: comportamento e educação na prevenção à sífilis",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -7976,7 +7976,7 @@
     },
     {
       "id": 162,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/721078/course/thumbimage//VFSS_cenario%20sifilis%20no%20BR_capa.jpg",
       "titulo": "Vamos falar sobre sífilis: cenário da sífilis no Brasil",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -8015,7 +8015,7 @@
     },
     {
       "id": 163,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/717493/course/thumbimage//desenv_vacinas_capa.jpg",
       "titulo": "Desenvolvimento de vacinas e terapias para o enfrentamento da covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / MS",
@@ -8073,7 +8073,7 @@
     },
     {
       "id": 164,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/690239/course/thumbimage//tecnologias%20assistivas%20capa.png",
       "titulo": "Tecnologias assistivas para pacientes com ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8116,7 +8116,7 @@
     },
     {
       "id": 165,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/690072/course/thumbimage//fisioterapia%20respiratoria%20capa.png",
       "titulo": "Fisioterapia respiratória no tratamento da ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8159,7 +8159,7 @@
     },
     {
       "id": 166,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/690031/course/thumbimage//fisio%20no%20tratamento%20capa.png",
       "titulo": "Fisioterapia no tratamento da ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8202,7 +8202,7 @@
     },
     {
       "id": 167,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689794/course/thumbimage//cuidados%20nutricionais%20capa.png",
       "titulo": "Cuidados nutricionais na ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8245,7 +8245,7 @@
     },
     {
       "id": 168,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689694/course/thumbimage//comunicacao%20e%20degluticao%20capa.png",
       "titulo": "Comunicação e Deglutição na ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8287,7 +8287,7 @@
     },
     {
       "id": 169,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689527/course/thumbimage//como%20diagnosticar%20capa.png",
       "titulo": "Como diagnosticar a ELA?",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8330,7 +8330,7 @@
     },
     {
       "id": 170,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689397/course/thumbimage//aspectos%20psicologicos%20capa.png",
       "titulo": "Aspectos psicológicos da ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8373,7 +8373,7 @@
     },
     {
       "id": 171,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/689337/course/thumbimage//ANDREA1.png",
       "titulo": "A assistência em saúde ao paciente com ELA",
       "parceiros": "UFRN / LAIS / SEDIS / HUOL / EBSERH / MS",
@@ -8416,7 +8416,7 @@
     },
     {
       "id": 172,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/687824/course/thumbimage//INFECCAO%20POR%20HPV_CAPA.jpg",
       "titulo": "Infecção por HPV",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -8455,7 +8455,7 @@
     },
     {
       "id": 173,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/686247/course/thumbimage//doenca%20inflamatoria%20pelvica_capa.jpg",
       "titulo": "Doença inflamatória pélvica",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -8494,7 +8494,7 @@
     },
     {
       "id": 174,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/686108/course/thumbimage//testes%20diagnosticos_capa.jpg",
       "titulo": "Testes para diagnóstico da sífilis",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -8532,7 +8532,7 @@
     },
     {
       "id": 175,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/686062/course/thumbimage//ulcera%20genital_capa.jpg",
       "titulo": "Infecções que causam úlcera genital",
       "parceiros": "UFRN / LAIS / OPAS / SBDST / MS",
@@ -8571,7 +8571,7 @@
     },
     {
       "id": 176,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678644/course/thumbimage//uso%20de%20antivirais_capa.jpg",
       "titulo": "Uso de antivirais na covid-19 – quais as evidências científicas?",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / MS",
@@ -8630,7 +8630,7 @@
     },
     {
       "id": 177,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678563/course/thumbimage//pre%20natal%20e%20puerperio%20covid_capa.jpg",
       "titulo": "Pré-Natal e Puerpério em tempos de pandemia da covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / SESAP / MS",
@@ -8694,7 +8694,7 @@
     },
     {
       "id": 178,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/678527/course/thumbimage//pandemia%20RN_capa.jpg",
       "titulo": "A pandemia do novo coronavírus no Rio Grande do Norte e seus impactos na sociedade",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / OPAS / ICDE / MS",
@@ -8753,7 +8753,7 @@
     },
     {
       "id": 179,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/676599/course/thumbimage//lei%20protecao_capa.jpg",
       "titulo": "Lei Geral de Proteção de Dados (LGPD): conceitos e aplicações na área da saúde",
       "parceiros": "UFRN / LAIS / NESC / SEDIS / MS",
@@ -8791,7 +8791,7 @@
     },
     {
       "id": 180,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673367/course/thumbimage//corrimento%20uretral_capa.jpg",
       "titulo": "Infecções que causam corrimento uretral",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -8834,7 +8834,7 @@
     },
     {
       "id": 181,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673334/course/thumbimage//cervicite_capa.jpg",
       "titulo": "Infecções que causam cervicite",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -8876,7 +8876,7 @@
     },
     {
       "id": 182,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673276/course/thumbimage//estrategias_capa.jpg",
       "titulo": "Estratégias para erradicação do HIV e Sífilis",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -8915,7 +8915,7 @@
     },
     {
       "id": 183,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673219/course/thumbimage//sifilis%20no%20brasil_capa.jpg",
       "titulo": "Sífilis no Brasil - novo protocolo: diagnóstico e tratamento",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -8954,7 +8954,7 @@
     },
     {
       "id": 184,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673184/course/thumbimage//sifilis%20e%20gonorreia_capa.jpg",
       "titulo": "Sífilis e Gonorreia no Brasil - Gonococo no Brasil",
       "parceiros": "UFRN / SEDIS / LAIS / NESC / MS",
@@ -8993,7 +8993,7 @@
     },
     {
       "id": 185,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/673143/course/thumbimage//profilaxia_capa.jpg",
       "titulo": "Profilaxia Pré-exposição ao HIV (PREP)",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -9032,7 +9032,7 @@
     },
     {
       "id": 186,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/672950/course/thumbimage//ist%20e%20hpv_capa.jpg",
       "titulo": "Infecções Sexualmente Transmissíveis (IST) e HPV",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -9071,7 +9071,7 @@
     },
     {
       "id": 187,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/672919/course/thumbimage//hepatite%20a_capa.jpg",
       "titulo": "Hepatite A em homens que fazem sexo com homens (HSH)",
       "parceiros": "UFRN / LAIS / SEDIS / NESC / MS",
@@ -9109,7 +9109,7 @@
     },
     {
       "id": 188,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/671295/course/thumbimage//transmissao%20vertical_capa.jpg",
       "titulo": "Transmissão Vertical da Sífilis",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -9150,7 +9150,7 @@
     },
     {
       "id": 189,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/671293/course/thumbimage//corrimento_capa.jpg",
       "titulo": "Infecções que causam corrimento vaginal",
       "parceiros": "UFRN / LAIS / SEDIS / OPAS / SBDST / MS",
@@ -9193,7 +9193,7 @@
     },
     {
       "id": 190,
-      "cateroria": "WebPalestras",
+      "categoria": "WebPalestras",
       "capa": "https://avasus.ufrn.br/pluginfile.php/658687/course/thumbimage//imagem%20de%20capa-2.jpg",
       "titulo": "A proteção do Idoso em tempos de covid-19",
       "parceiros": "UFRN / LAIS / SEDIS / EBSERH / HUOL / REDE / DEB / ICDE / OPAS / MS",
@@ -9251,7 +9251,7 @@
     },
     {
       "id": 191,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/444410/course/thumbimage//imagem%20de%20capa%20%281%29.jpg",
       "titulo": "Atenção à Saúde da pessoa privada de liberdade - com Legendagem",
       "parceiros": "PEPSUS / LAIS / SEDIS / UFRN / MS",
@@ -9293,7 +9293,7 @@
     },
     {
       "id": 192,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/444354/course/thumbimage//imagem%20de%20capa.jpg",
       "titulo": "Atenção à Saúde da Pessoa Privada de Liberdade - com Audiodescrição",
       "parceiros": "PEPSUS / LAIS / SEDIS / UFRN / MS",
@@ -9335,7 +9335,7 @@
     },
     {
       "id": 193,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/432204/course/thumbimage//Como%20utilizar%20o%20AVASUS%28220%29.jpg",
       "titulo": "Como utilizar o AVASUS - com Audiodescrição",
       "parceiros": "LAIS / SEDIS / UFRN / MS",
@@ -9374,7 +9374,7 @@
     },
     {
       "id": 194,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/432172/course/thumbimage//feridas%20e%20curativos_capa.jpg",
       "titulo": "Feridas e Curativos na Atenção Primária à Saúde - com Audiodescrição",
       "parceiros": "UFRN / SEDIS / LAIS / PEPSUS / MS",
@@ -9427,7 +9427,7 @@
     },
     {
       "id": 195,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/432143/course/thumbimage//imagem_capa%20%281%29.png",
       "titulo": "Introdução à Segurança e Saúde do Trabalho - com Audiodescrição",
       "parceiros": "UFRN / SEDIS / LAIS / MEJC / MS",
@@ -9480,7 +9480,7 @@
     },
     {
       "id": 196,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/432096/course/thumbimage//Pai-presente%28220%29.jpg",
       "titulo": "Pai Presente: Cuidado e Compromisso - com Audiodescrição",
       "parceiros": "Universidade Federal do Rio Grande do Norte / MS",
@@ -9515,7 +9515,7 @@
     },
     {
       "id": 197,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/432041/course/thumbimage//Pai-presente%28220%29.jpg",
       "titulo": "Pai Presente: Cuidado e Compromisso - com Legendagem",
       "parceiros": "Universidade Federal do Rio Grande do Norte / MS",
@@ -9550,7 +9550,7 @@
     },
     {
       "id": 198,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/432019/course/thumbimage//feridas%20e%20curativos_capa.jpg",
       "titulo": "Feridas e Curativos na Atenção Primária à Saúde - com Legendagem",
       "parceiros": "UFRN / SEDIS / LAIS / PEPSUS / MS",
@@ -9602,7 +9602,7 @@
     },
     {
       "id": 199,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/431996/course/thumbimage//imagem_capa%20%281%29.png",
       "titulo": "Introdução à Segurança e Saúde do Trabalho - com Legendagem",
       "parceiros": "UFRN / SEDIS / LAIS / MEJC / MS",
@@ -9654,7 +9654,7 @@
     },
     {
       "id": 200,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/431966/course/thumbimage//Como%20utilizar%20o%20AVASUS%28220%29.jpg",
       "titulo": "Como Utilizar o AVASUS - com Legendagem",
       "parceiros": "LAIS / SEDIS / UFRN / MS",
@@ -9693,7 +9693,7 @@
     },
     {
       "id": 201,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201401/course/thumbimage//imagem%20do%20modulo_CAPA.jpg",
       "titulo": "Clínica Ampliada e Apoio Matricial - com Legendagem",
       "parceiros": "SEDIS / PEPSUS / LAIS / UFRN / MS",
@@ -9745,7 +9745,7 @@
     },
     {
       "id": 202,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201400/course/thumbimage//SBV_IMAGEM%20DE%20CAPA_AVASUS%28220%29.jpg",
       "titulo": "Suporte Básico de Vida - com Legendagem",
       "parceiros": "SEDIS / SAMU / EBSERH / HUOL / LAIS / UFRN / MS",
@@ -9796,7 +9796,7 @@
     },
     {
       "id": 203,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201399/course/thumbimage//triagem-ocular-2%28220%29.jpg",
       "titulo": "Qualificação em Triagem Ocular - com Legendagem",
       "parceiros": "UFRN / SEDIS / LAIS / MS",
@@ -9836,7 +9836,7 @@
     },
     {
       "id": 204,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201398/course/thumbimage//brincar%28221%29.jpg",
       "titulo": "A importância do Brincar e da Participação Familiar para o Desenvolvimento Infantil - com Legendagem",
       "parceiros": "LAIS / SEDIS / UFRN / MS",
@@ -9875,7 +9875,7 @@
     },
     {
       "id": 205,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201397/course/thumbimage//estimulac%CC%A7a%CC%83o-precoce%28220%29.jpg",
       "titulo": "Estimulação precoce - com Legendagem",
       "parceiros": "SEDIS / LAIS / UFRN / MS",
@@ -9911,7 +9911,7 @@
     },
     {
       "id": 206,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201395/course/thumbimage//ultrassom%28220%29.jpg",
       "titulo": "Utilização racional e otimizada da ultrassonografia diagnóstica - com Legendagem",
       "parceiros": "SEDIS / LAIS / UFRN / MS",
@@ -9953,7 +9953,7 @@
     },
     {
       "id": 207,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201394/course/thumbimage//Curso%20Introdut%D1%94rio%20para%20Agente%20Comunit%D1%81rio%20de%20Sa%C2%B7de%20%28ACS%29_capa%28221%29.jpg",
       "titulo": "Curso Introdutório para Agente Comunitário de Saúde (ACS) - com Legendagem",
       "parceiros": "SEDIS / CEFOPE / LAIS / UFRN / MS",
@@ -10012,7 +10012,7 @@
     },
     {
       "id": 208,
-      "cateroria": "Acessibilidade",
+      "categoria": "Acessibilidade",
       "capa": "https://avasus.ufrn.br/pluginfile.php/201393/course/thumbimage//Curso%20para%20instrutores%20do%20curso%20introdut%D1%94rio%20presencial%20para%20agentes%20comunit%D1%81rios%20de%20sa%C2%B7de%20%28ACS%29_capa%28220%29.jpg",
       "titulo": "Curso para instrutores do curso introdutório presencial para agentes comunitários de saúde (ACS) - com Legendagem",
       "parceiros": "SEDIS / CEFOPE / LAIS / UFRN / MS",
@@ -10071,7 +10071,7 @@
     },
     {
       "id": 209,
-      "cateroria": "Sistema prisional",
+      "categoria": "Sistema prisional",
       "capa": "https://avasus.ufrn.br/pluginfile.php/876943/course/thumbimage//capa-frente.jpg",
       "titulo": "Conversando com pessoas privadas de liberdade sobre saúde: cuidados, promoção da saúde, direitos e cidadania",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -10129,7 +10129,7 @@
     },
     {
       "id": 210,
-      "cateroria": "Sistema prisional",
+      "categoria": "Sistema prisional",
       "capa": "https://avasus.ufrn.br/pluginfile.php/878059/course/thumbimage//Foto_Capa_O_policial_penal.jpeg",
       "titulo": "O Policial Penal e a Saúde em Ambientes de Privação de Liberdade",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -10190,7 +10190,7 @@
     },
     {
       "id": 211,
-      "cateroria": "Sistema prisional",
+      "categoria": "Sistema prisional",
       "capa": "https://avasus.ufrn.br/pluginfile.php/124320/course/thumbimage//imagem%20de%20capa.jpg",
       "titulo": "Atenção à Saúde da pessoa privada de liberdade",
       "parceiros": "SEDIS / LAIS / UFRN / PEPSUS / MS",
@@ -10233,7 +10233,7 @@
     },
     {
       "id": 212,
-      "cateroria": "Sistema prisional",
+      "categoria": "Sistema prisional",
       "capa": "https://avasus.ufrn.br/pluginfile.php/878742/course/thumbimage//Foto_Capa_Poli%CC%81tica%20de%20Atenc%CC%A7a%CC%83o.jpeg",
       "titulo": "Políticas de atenção à saúde no sistema prisional",
       "parceiros": "UFRN / SEDIS / LAIS / SífilisNão / UC / IFHT / UERJ / OPAS / MS",
@@ -10292,7 +10292,7 @@
     },
     {
       "id": 213,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/858370/course/thumbimage//BANNER%20AVASUS%20CURSO%20IST_Prancheta%201%20co%CC%81pia%20%281%29.png",
       "titulo": "Course on Comprehensive Care for People with Sexually Transmitted Infections",
       "parceiros": "OPAS / UFRN / SEDIS / LAIS / NAVI / IFRN / MS",
@@ -10352,7 +10352,7 @@
     },
     {
       "id": 214,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827138/course/thumbimage//379x221.jpg",
       "titulo": "Curso autoinstrucional para a formação e disseminação do Protocolo Clínico e Diretrizes Terapêuticas para o Manejo das Infecções Sexualmente Transmissíveis produzido pelo Ministério da Saúde",
       "parceiros": "UFRN / IFRN / OPAS / LAIS / SEDIS / NAVI / MS",
@@ -10411,7 +10411,7 @@
     },
     {
       "id": 215,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/850929/course/thumbimage//BANNER%20AVASUS%20CURSO%20IST_Prancheta%201%20%281%29.png",
       "titulo": "Curso de atención integral para personas con infecciones de transmisión sexual",
       "parceiros": "IFRN / NAVI / OPAS / UFRN / SEDIS / LAIS / MS",
@@ -10472,7 +10472,7 @@
     },
     {
       "id": 216,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827133/course/thumbimage//capa_protecao%20social.jpg",
       "titulo": "Proteção Social das pessoas em situação de vulnerabilidade social com Sífilis, HIV/AIDS, Hepatites Virais, Tuberculose ou Hanseníase",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -10523,7 +10523,7 @@
     },
     {
       "id": 217,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/847862/course/thumbimage//Espanhol%20OPAS.jpg",
       "titulo": "Protección social de personas en situación de vulnerabilidad social con sífilis, VIH / SIDA, hepatitis viral, tuberculosis o lepra",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -10578,7 +10578,7 @@
     },
     {
       "id": 218,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/847932/course/thumbimage//Ingle%CC%82s%20OPAS.jpg",
       "titulo": "Social Protection for People with Syphilis, HIV/AIDS, Viral Hepatitis, Tuberculosis, or Hansen's Disease in Situations of Social Vulnerability",
       "parceiros": "UFRN / LAIS / MC / SUAS / NAVI / IFRN / OPAS / MS",
@@ -10633,7 +10633,7 @@
     },
     {
       "id": 219,
-      "cateroria": "OPAS",
+      "categoria": "OPAS",
       "capa": "https://avasus.ufrn.br/pluginfile.php/827535/course/thumbimage//mini%20avasus__Prancheta%201%20co%CC%81pia.jpg",
       "titulo": "Curso de atenção integral às pessoas com infecções sexualmente transmissíveis",
       "parceiros": "UFRN / SEDIS / LAIS / NAVI / IFRN / OPAS / MS",
