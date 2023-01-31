@@ -13,14 +13,16 @@ function Pagination({
   const MAX_LEFT = (MAX_ITEMS - 1) / 2;
   const first = Math.max(currentPage - MAX_LEFT, 1);
 
-  function onPageChange(e) {
-    e.preventDefault()
-    setOffset((Number(currentPage) - 1) * itensPerPage);
-    setCurrentPage(Number(e.target.value));
+  async function onPageChange(e) {
+    try {
+      await setCurrentPage(Number(e.target.value));
+      await setOffset((Number(currentPage) - 1) * itensPerPage);
+    } catch (error) {
+      'Whats happening?' + error;
+    }
   }
 
   function ProximoBtn(e) {
-    e.preventDefault()
     setOffset((Number(currentPage) + 1) * itensPerPage);
     setCurrentPage(Number(e.target.value) + 1);
   }
@@ -28,8 +30,8 @@ function Pagination({
   return (
     <div className="pagination">
       {Array.from({ length: Math.min(MAX_ITEMS), pages })
-        .map((_, index) => index + first)
-        .map((_,page) => {
+        .map((_,index) => index + first)
+        .map((page) => {
           return (
             <div key={page}>
               <button
@@ -42,7 +44,7 @@ function Pagination({
                     : { backgroundColor: '#FAFAFA' }
                 }
               >
-                {page+1}
+                {page}
               </button>
             </div>
           );

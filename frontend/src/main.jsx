@@ -5,7 +5,6 @@ import './index.css';
 import {
   createBrowserRouter,
   RouterProvider,
-  Route,
 } from 'react-router-dom';
 
 //paginas
@@ -14,6 +13,7 @@ import ModulosEducacionais from './routes/ModulosEducacionais';
 import Curso from './routes/Curso';
 import Parceiros from './routes/Parceiros';
 import SobreNos from './routes/SobreNos';
+import Transparencia from './routes/Transparencia';
 
 const router = createBrowserRouter([
   {
@@ -24,6 +24,7 @@ const router = createBrowserRouter([
       { path: 'cursos/:id', element: <Curso/> },
       { path: 'parceiros', element: <Parceiros/> },
       { path: 'sobrenos', element: <SobreNos/> },
+      { path: 'transparencia', element: <Transparencia/> },
     ],
   },
 ]);

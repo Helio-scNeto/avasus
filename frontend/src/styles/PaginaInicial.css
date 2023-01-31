@@ -122,6 +122,7 @@
 
 .cursoStats {
   display: flex;
+  align-items: center;
   width: 438px;
   height: 24.48px;
   padding: 68px 0px 67.52px 0px;
@@ -148,9 +149,6 @@
 .cursoDuracao {
   width: 77px;
   height: 20px;
-
-  margin-top: 4px;
-  margin-left: -2px;
 }
 
 .tempo {

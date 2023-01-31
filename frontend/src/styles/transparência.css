@@ -1,0 +1,37 @@
+.mainContainer {
+  margin-bottom: 1000px;
+}
+
+.transparenciaTituloContainer-4 {
+  position: absolute;
+  width: 290px;
+  height: 49px;
+
+  margin: 80px 815px 30px 815px;
+
+  color: #d2202c;
+}
+
+.transparenciaTituloContainer-4 h1 {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;
+}
+
+.transparênciaDadosContainer-4 {
+  position: absolute;
+  width: 1110px;
+  height: 319px;
+  left: 405px;
+  top: 259px;
+
+  background: #f5f5f7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+.transparênciaDadosContainer-4 p{
+    
+}
+
+

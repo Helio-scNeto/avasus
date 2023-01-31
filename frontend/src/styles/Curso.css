@@ -1,5 +1,403 @@
-.cursoPagina{
-    margin: 1000px;
-    background-color: green;
-    color: red;
+.cursoPagina {
+  color: red;
+  margin-bottom: 1000px;
+}
+
+.path-3-container {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  max-width: 623px;
+  max-height: 20px;
+  left: 405px;
+  top: 130px;
+
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #e0e0e0;
+  text-transform: capitalize;
+  white-space: nowrap;
+
+  color: #e0e0e0;
+}
+
+.path-3-container li:before {
+  content: '/';
+  padding: 2.5px;
+}
+
+.cursoCapa-3 {
+  position: absolute;
+  max-width: 1920px;
+  max-height: 270px;
+  width: 100%;
+  height: 100%;
+  left: 0px;
+  top: 100px;
+
+  background-color: grey;
+  background-blend-mode: multiply;
+  background-size: cover !important;
+  background-repeat: no-repeat !important;
+
+  background: #757575;
+}
+
+.curso-titulo-3-container {
+  position: relative;
+  display: flex;
+  align-items: center;
+  text-transform: capitalize;
+
+  width: 1043px;
+  height: 49px;
+  margin: 200px 472px 30px 405px;
+}
+
+.curso-titulo-3-container h1 {
+  font-weight: 700;
+  font-size: 40px;
+  line-height: 49px;
+  color: #ffffff;
+}
+
+.curso-parceiros-3-container {
+  position: absolute;
+  max-width: 608px;
+  max-height: 60px;
+  margin: 30px 907px 51px 405px;
+}
+
+.curso-parceiros-3-container h2 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+
+  overflow-wrap: break-word;
+  word-wrap: break-word;
+  hyphens: auto;
+
+  color: #ffffff;
+}
+
+.InformaçoesGerais-3 {
+  position: absolute;
+  max-width: 591px;
+  max-height: 49px;
+  left: 665px;
+  top: 400px;
+
+  display: flex;
+  align-items: center;
+
+  color: #d2202c;
+}
+
+.InformaçoesGerais-3 h1 {
+  font-weight: 600;
+  font-size: 40px;
+  line-height: 49px;
+  white-space: nowrap;
+}
+
+.cursoStats-3 {
+  display: flex;
+  position: static;
+  align-items: center;
+  left: 405px;
+  top: 493px;
+
+  max-height: 24px;
+  max-width: 1000px;
+
+  padding: 250px 403.85px 46px 405px;
+
+  white-space: nowrap;
+}
+
+.cursoStats-3 p {
+  font-weight: 700;
+  font-size: 19.5607px;
+  color: #2f2e41;
+  margin-right: 60px;
+}
+
+.cursoDuracao-3 {
+  display: flex;
+  align-items: center;
+  width: 75px;
+  height: 24px;
+  margin-right: 70.01px;
+  white-space: nowrap;
+}
+
+.cursoDuracao-3 img {
+  position: static;
+  width: 25.81px;
+  height: 25.81px;
+  left: 21.09%;
+  right: 77.56%;
+  top: 21.63%;
+  bottom: 77.24%;
+  margin-right: 12.09px;
+}
+
+.criadoEmContainer-3 {
+  position: static;
+  display: flex;
+  align-items: center;
+  width: 213.23px;
+  height: 24px;
+  left: 545px;
+  top: 494px;
+}
+
+.criadoEmContainer-3 p {
+  max-width: 179px;
+  width: 100%;
+  height: 24px;
+  margin-right: -5px;
+}
+
+.criadoEmContainer-3 img {
+  position: static;
+  width: 22.01px;
+  height: 22.01px;
+  margin-right: 12.23px;
+}
+
+.cursoMatriculado-3 {
+  display: flex;
+  align-items: center;
+  width: 323.57px;
+  height: 24px;
+}
+
+.cursoMatriculado-3 img {
+  position: static;
+  top: 21.68%;
+  right: 57.59%;
+  left: 40.89%;
+  bottom: 77.3%;
+
+  width: 29.34px;
+  height: 23.23px;
+
+  margin-right: 12.23px;
+  margin-left: 26.77px;
+}
+
+.cursoAvalicao-3 {
+  display: flex;
+  align-items: center;
+  margin-left: 27.43px;
+}
+
+.cursoAvalicao-3 div {
+  padding-left: 27.43;
+}
+
+.ava-3 {
+  position: static;
+  width: 231px;
+  height: 24px;
+  left: 1285.15px;
+  top: 494px;
+
+  margin-top: -6px;
+
+  color: #2f2e41;
+}
+
+.sobreoCurso-3 {
+  position: static;
+  width: 176px;
+  height: 30px;
+  left: 872px;
+  top: 564px;
+
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  white-space: nowrap;
+
+  margin: 46px 872px 30px 872px;
+  color: #d2202c;
+}
+
+.sobreoCurso-3 h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.resumo-3 {
+  width: 1110px;
+  height: 140px;
+  top: 624px;
+  left: 405px;
+  margin: 46px 405px 30px 405px;
+}
+
+.resumo-3 p {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  text-align: justify;
+  text-justify: inter-word;
+
+  color: #000000;
+}
+
+.objetivos-titulo-3 {
+  position: absolute;
+  width: 122px;
+  height: 30px;
+  left: 899px;
+  top: 794px;
+  font-weight: 600;
+
+  display: flex;
+  align-items: center;
+
+  color: #d2202c;
+}
+
+.objetivos-titulo-3 h2 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.objetivoGeral-3 {
+  position: absolute;
+  width: 1110px;
+  height: 40px;
+  left: 405px;
+  top: 887px;
+
+  font-weight: 700;
+  color: #000000;
+}
+
+.objetivoGeral-3 h2 {
+  font-size: 16px;
+  line-height: 20px;
+  padding-bottom: 13px;
+}
+
+.objetivoGeral-3 p {
+  position: static;
+  max-width: 1110px;
+  max-height: 40px;
+  left: 405px;
+  top: 887px;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #000000;
+}
+
+.objetivosEspecificos-3 {
+  position: absolute;
+  width: 179px;
+  height: 20px;
+  left: 405px;
+  top: 957px;
+
+  font-weight: 700;
+
+  color: #2f2e41;
+}
+
+.objetivosEspecificos-3 h2 {
+  font-size: 16px;
+  line-height: 20px;
+  margin-top: 30px;
+}
+
+.objetivosEspecificos-3 p {
+  position: static;
+  width: 1110px;
+  height: 80px;
+  left: 405px;
+  top: 990px;
+
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+  margin-top: 13px;
+  margin-bottom: 30px;
+
+  color: #000000;
+}
+
+.recursosEducacionais-3 {
+  position: absolute;
+  left: 813px;
+  top: 1100px;
+
+  color: #d2202c;
+}
+
+.recursosEducacionais-3 h2 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+  white-space: nowrap;
+}
+
+.recursosEducacionais-3 p {
+  position: static;
+  left: 571px;
+  top: 1160px;
+  width: 120%;
+
+  margin-left: -400px;
+  margin-top: 30px;
+
+  text-align: justify;
+  text-justify: inter-word;
+
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #000000;
+}
+
+.creditos-3 {
+  position: absolute;
+  width: 108px;
+  height: 30px;
+  left: 906px;
+  top: 1240px;
+
+  display: flex;
+  align-items: center;
+
+  margin-top: 60px;
+
+  color: #d2202c;
+}
+
+.creditos-3 h2 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.creditos-3-container-imgs {
+  display: flex;
+  align-items: center;
+  position: absolute;
+  width: 1111px;
+  height: 282px;
+ 
+  margin: 500px 200px -100px 405px;
+
+  gap: 38px;
 }

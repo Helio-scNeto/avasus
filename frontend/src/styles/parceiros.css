@@ -1,4 +1,4 @@
-.path {
+.path-4-container {
   position: relative;
   display: flex;
   align-items: center;
@@ -14,51 +14,17 @@
   color: #808080;
 }
 
-.path li {
-  padding-right: 5px;
+.path-4-container li:before {
+  content: '/';
+  padding: 2.5px;
 }
 
-.lastLI {
-  font-weight: 800;
-}
-
-.titulo-2 {
-  position: absolute;
-  width: 461px;
-  height: 49px;
-  left: 730px;
-  top: 190px;
-
-  display: flex;
-  align-items: center;
-
-  color: #d2202c;
-}
-
-.modulos {
-  position: absolute;
-  display: flex;
-  margin: 0px 405px 30px 0px;
-  width: 1110px;
-  height: 35px;
-  left: 405px;
-  top: 269px;
-
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 24px;
-  list-style: none;
-
-  align-items: center;
-  white-space: nowrap;
-}
-
-.pages {
+.pages-4 {
   position: static;
   width: 147px;
   height: 20px;
 
-  margin: 260px 1368px 10px 405px;
+  margin: 220px 1368px 10px 405px;
 
   font-style: italic;
   font-weight: 400;
@@ -71,36 +37,36 @@
   color: #2f2e41;
 }
 
-.modulos li {
-  padding-right: 30px;
-  color: #2f2e41;
-}
+.tituloContainer-4 {
+  position: absolute;
+  width: 347px;
+  height: 49px;
+  left: 405px;
+  top: 180px;
 
-.modulos button {
   font-weight: 600;
-  font-size: 20px;
-  line-height: 24px;
-  list-style: none;
+  white-space: nowrap;
+  margin: 0px 1168px 30px 0px;
 
-  border: none;
-  background-color: #ffffff;
+  color: #d2202c;
 }
 
-.modulos__item--active {
-  color: #707070;
-  text-decoration: underline solid #707070 5px;
-  text-underline-offset: 11px;
+.tituloContainer-4 h1{
+  font-size: 40px;
+  line-height: 49px;
 }
 
-.cursos-2-Container {
-  display: block;
+.parceirosContainer-4 {
+  display: inline-block;
   width: 1320px;
   height: 600px;
   margin: 0px 405px 200px 380px;
   padding-bottom: 300px;
+  white-space: pre-wrap;
 }
 
-.cursoListagem {
+.parceirosListagem-4 {
+
   width: 350px;
   height: 500px;
 
@@ -110,44 +76,45 @@
   width: 400px;
 }
 
-.cursoCapaContainer {
+.cursoCapaContainer-4 {
   position: static;
   margin: 0px 0px 10px 0px;
+  border-bottom: 2px solid red;
 }
 
-.cursoCapa {
+.cursoCapa-4 {
   width: 350px;
   height: 200px;
   border-radius: 20px;
 }
 
-.cursoTitulo-container-2 {
-  display: flex;
-  position: relative;
-  align-items: center;
+.parceiroTituloContainer-4 {
+  display: inline-block;
+  position: static;
+  width: 344px;
+  height: 30px;
 
-  width: 350px;
-  height: 60px;
-
+  line-height: 190%;
   color: #2f2e41;
-
-  overflow: hidden;
-  white-space: wrap;
-  text-overflow: ellipsis;
 }
 
-.cursoTitulo-container-2 h1 {
-  position: absolute;
-  display: flex;
-  align-items: center;
-  top: 0;
-  left: 0;
+.parceiroTituloContainer-4 h1 {
+  position: static;
+  width: 100%;
+  height: 100%;
 
-  text-transform: capitalize;
+  left: 408px;
+  top: 534px;
 
+  font-style: normal;
   font-weight: 600;
   font-size: 25px;
   line-height: 30px;
+
+  align-items: center;
+  text-align: center;
+
+  color: #2f2e41;
 }
 
 .cursoParceiros-2 {

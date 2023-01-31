@@ -14,16 +14,16 @@ const Navbar = () => {
             <Link to={'/'}>Inicio</Link>
           </li>
           <li className="nav-item">
-            <Link to={'/sobrenos'}>Sobre Nós</Link>
+            <Link to={'sobrenos'}>Sobre Nós</Link>
           </li>
           <li className="nav-item">
             <Link to={'cursos'}>Cursos</Link>
           </li>
           <li className="nav-item">
-            <Link to={'/parceiros'}>Parceiros</Link>
+            <Link to={'parceiros'}>Parceiros</Link>
           </li>
           <li className="nav-item">
-            <Link to={'#'}>Transparência</Link>
+            <Link to={'transparencia'}>Transparência</Link>
           </li>
           <li className="nav-item">
             <Link to={'#'}>Contato</Link>
