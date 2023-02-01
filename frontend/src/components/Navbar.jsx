@@ -6,9 +6,10 @@ import { Link } from 'react-router-dom';
 const Navbar = () => {
   return (
     <div>
-      <div className="navbar">
+      <nav className="navbar">
         <div className="avasusLogo"></div>
-        <ul>
+        
+        <ul className="navlist">
           <li className="nav-item">
             <Link to={'/'}>Inicio</Link>
           </li>
@@ -27,24 +28,24 @@ const Navbar = () => {
           <li className="nav-item">
             <Link to={'#'}>Contato</Link>
           </li>
+          <li>
+            <div className="search-box">
+              <img src={searchIcon} alt="search icon" />
+              <input
+                className="search"
+                type="search"
+                placeholder="Busca por um assunto..."
+              />
+            </div>
+          </li>
+          <li>
+            <div className="btn-entrar">
+              <Link to={'#'}>
+                <input type="button" value="Entrar" />
+              </Link>
+            </div>
+          </li>
         </ul>
-        <div className="search-box">
-          <img src={searchIcon} alt="search icon" />
-          <input
-            className="search"
-            type="search"
-            placeholder="Busca por um assunto..."
-          />
-        </div>
-        <div>
-          <Link to={'#'}>
-            <input
-              type="button"
-              value="Entrar"
-              className="btn-entrar"
-            />
-          </Link>
-        </div>
         <div>
           <Link to={'#'}>
             <input
@@ -54,7 +55,7 @@ const Navbar = () => {
             />
           </Link>
         </div>
-      </div>
+      </nav>
     </div>
   );
 };

@@ -1,39 +1,85 @@
-
-.carousel{
-  overflow: hidden;
-  max-width: 1920px;
-  max-height: 760px;
-}
-
-.inner{
+.slideContainer-1 {
   display: flex;
 }
 
-.bannerPrincipal {
-  min-height: 200px;
-  min-width: 400px;
-  left: 0px;
-  top: 0px;
-  padding: 14px;
+.slideShow-1 {
+  position: relative;
+  width: 100vw;
+  height: 100vh;
+  margin: auto;
 }
 
-.bannerPrincipal img{
-  width: 100%;
-  height: 100%;
-  pointer-events: none;
+.sobrePosicao1 {
+  position: absolute;
+  max-width:  38.75vw;
+  max-height: 12.01vh;
+  left: 718px;
+  top: 275px;
+}
+
+.subtitulosobrePosicao1 {
+  position: absolute;
+  width: 634.67px;
+  height: 36px;
+  left: 644px;
+  top: 425px;
+
+  filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+
+.subtituloSobrePosicao1-Line {
+  position: absolute;
+  width: 150px;
+  height: 0px;
+  left: 891px;
+  top: 405px;
+
+  transform: rotate(180deg);
+}
+
+.prevButton-1 {
+  position: absolute;
+  width:  5.46875vw;
+  height:  5.46875vw;
+  left: 61px;
+  top: 345px;
+  border-radius: 40px;
+  background: #434343;
+  opacity: 0.2;
+  backdrop-filter: blur(2px);
+}
+
+.nextButton-1 {
+  position: absolute;
+  width:  5.46875vw;
+  height:  5.46875vw;
+  left: 1850px;
+  top: 345px;
+
+  border-radius: 40px;
+
+  background: #434343;
+  opacity: 0.2;
+  backdrop-filter: blur(2px);
+
+  /* inverter botao */
+  transform: matrix(-1, 0, 0, 1, 0, 0);
 }
 
 .titulo h1 {
-  width: 346px;
-  height: 37px;
-  left: 787px;
-  top: 974px;
+  position: static;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  width: 27.03125vw;
+  height: 39.3vh;
+
+  margin: -35%  51% -10%  39%;
 
   font-weight: 600;
   font-size: 30px;
   line-height: 37px;
-
-  margin: 114px 787px 30px 787px;
 
   display: flex;
   align-items: center;
@@ -41,20 +87,20 @@
   color: #d2202c;
 }
 
-.rates{
+.rates {
   display: flex;
   align-items: center;
   justify-content: center;
   white-space: nowrap;
-  margin: 30px 965px 30px 490px;
+  margin: 0px 60% 1% 31%;
 }
 
 .rates li {
-  padding-right: 30px;
+  padding-right: 1.2em;
   color: #2f2e41;
 }
 
-.rates button{
+.rates button {
   font-weight: 600;
   font-size: 20px;
   line-height: 24px;
@@ -65,13 +111,13 @@
 }
 
 .curso {
-  width: 1110px;
-  height: 160px;
-  left: 405px;
-  top: 1106px;
-  margin: 20px;
+  position: inherit;
+  max-width: 1120px;
+  max-height: 160px;
+  width: 86.72vw;
+  height: 100vh;
 
-  margin: 30px 405px 30px 405px;
+  margin: 0px 45% 1% 20%;
 
   background: #f5f5f7;
   border-radius: 20px;
@@ -80,14 +126,16 @@
 .cursoTopicos {
   position: absolute;
   display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .cursoBanner img {
   position: static;
   max-width: 120px;
   max-height: 120px;
-  width: 100%;
-  height: 100%;
+  width: 100vw;
+  height: 100vh;
 
   border-radius: 15%;
   margin: 20px;
@@ -95,18 +143,21 @@
 
 .tituloParceiros {
   display: inline;
-  width: 274px;
-  height: 96px;
+  max-width: 274px;
+  max-height: 96px;
+  width: 100vw;
+  height: 100vh;
 
-  margin-top: -20px;
-
-  padding: 40px 23px 40px 17px;
+  padding: 0% 5% 4% 17px;
 }
 
 .cursoTitulo {
   display: inline-block;
-  width: 274px;
-  height: 48px;
+  max-width: 274px;
+  max-height: 48px;
+
+  width: 100%;
+  height: 100vh;
 
   font-weight: 600;
   font-size: 20px;
@@ -118,11 +169,12 @@
 }
 
 .cursoParceiros {
-  width: 274px;
-  height: 32px;
   display: inline-block;
+  max-width: 274px;
+  max-height: 32px;
 
-  padding: 0px 855px 0px 0px;
+  width: 100%;
+  height: 100vh;
 
   font-weight: 600;
   font-size: 13px;
@@ -134,9 +186,15 @@
 .cursoStats {
   display: flex;
   align-items: center;
-  width: 438px;
-  height: 24.48px;
-  padding: 68px 0px 67.52px 0px;
+  justify-content: center;
+
+  max-width: 438px;
+  max-height: 24.48px;
+
+  width: 100%;
+  height: 100vh;
+
+  padding: 5.8% 0 6% 0;
 
   font-weight: 400;
   font-size: 16.7471px;
@@ -147,13 +205,17 @@
 
 .cursoMatriculados {
   display: flex;
-  margin-right: 17.85px;
-  padding-top: 6px;
+  margin-right: 15%;
+  padding-top: 1%;
 }
 
 .cursoMatriculados img {
-  width: 30.93px;
-  height: 24.48px;
+  max-width: 30.93px;
+  max-height: 24.48px;
+
+  width: 100%;
+  height: 100%;
+
   padding: 0px 12.88px 0px 23px;
 }
 
@@ -187,12 +249,19 @@
 }
 
 .btn-verModulo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
   box-sizing: border-box;
+  cursor: pointer;
 
-  width: 178px;
-  height: 40px;
+  max-width: 178px;
+  max-height: 40px;
 
-  margin: 60px 20px 60px -40px;
+  margin-left: 40%;
+
+  width: 100vw;
+  height: 100vw;
 
   background: #707070;
   border: 1px solid #707070;
@@ -216,6 +285,8 @@
   left: 785px;
   top: 1600px;
 
+  margin: 2% 2.5% 0 5%;
+
   background: #707070;
   border-radius: 20px;
 
@@ -233,7 +304,7 @@
   left: 888px;
   top: 1849px;
 
-  margin: 94px 888px 33px 888px;
+  margin: 5% 30% 3.8% 48%;
 
   font-weight: 600;
   font-size: 30px;
@@ -244,14 +315,18 @@
 
 .parceiros-container {
   display: flex;
-  gap: 5rem;
+  align-items: center;
+  justify-content: center;
+  gap: 4vw;
 
-  width: 1110px;
-  height: 210px;
-  left: 405px;
-  top: 1916px;
 
-  margin: 0px 405px 132px 405px;
+  max-width: 1110px;
+  max-height: 210px;
+  width: 100vw;
+  height: 100vw;
+ 
+
+  margin: 0px 31.64% 15% 20%;
 
   background: #f5f5f7;
   border-radius: 20px;

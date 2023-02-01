@@ -1,18 +1,20 @@
 .footerContainer {
   position: relative;
   max-width: 1920px;
-  width: 100%;
-  height: 644px;
+  max-height: 644px;
 
-  bottom: 0px;
-  left: 0px;
-  right: 0px;
-  margin-bottom: 0px;
+  width: 100vw;
+  height: 100vw;
+ margin: 0;
+ padding: 0;
 }
 
+
 .footer-1 {
-  width: 1920px;
-  height: 228px;
+  max-width: 1920px;
+  max-height: 228px;
+  width: 100vw;
+  height: 100vw;
   background: #d2202c;
 }
 
@@ -21,11 +23,7 @@
   right: 35.73%;
   top: 81.67%;
   bottom: 15.71%;
-  padding: 44px 686px 40px 685px;
-}
-
-.laisLogo {
-  padding: 0px 0px 0px 0px;
+  margin: 1.8% 35% 7.1% 35%;
 }
 
 .ufrnLogo {
@@ -33,37 +31,46 @@
 }
 
 .flexContainer-Realização {
-  width: 132px;
-  height: 29px;
+  max-width: 132px;
+  max-height: 29px;
+  width: 100vw;
+  height: 100vw;
+
   padding: 39px 901px 0px 887px;
+
   font-weight: 600;
   font-size: 24px;
   line-height: 29px;
 
   display: flex;
+  align-items: center;
   justify-content: center;
 
   color: #ffffff;
 }
 
 .footer-2 {
-  width: 1920px;
-  height: 416px;
-  left: 0px;
-  top: 2486px;
+  max-width: 1920px;
+  max-height: 416px;
+  width: 100vw;
+  height: 100vw;
 
+  left: 0px;
   background: #323237;
 }
 
 .flexWrap-footer2 {
-  padding: 63px 502px 44px 466px;
+  padding: 5% 0% 0% 25%;
   display: flex;
 }
 
 .flexContainer-footer2 {
   padding: 63px 0px 0px 0px;
-  width: 202px;
-  height: 87px;
+  max-width: 202px;
+  max-height: 87px;
+  width: 100vw;
+  height: 100vw;
+
   left: 466px;
   top: 2549px;
 }
@@ -74,7 +81,7 @@
   left: 887px;
   top: 2549px;
 
-  padding: 0px 0px 0px 221px;
+  padding: 0px 0px 0px 15%;
 }
 
 .flexContainer-footer2-1 h2 {
@@ -115,7 +122,6 @@
   text-decoration: none;
   color: #ffffff;
 }
-
 
 .flexContainer-footer2-3 {
   padding: 0px 0px 0px 219px;
@@ -160,23 +166,29 @@
 }
 
 .footer-3 {
-  width: 1920px;
-  height: 84px;
+  max-width: 1920px;
+  max-height: 84px;
   left: 0px;
   top: 2818px;
+
+  width: 100vw;
+  height: 100vw;
 
   background: #424146;
 }
 
 .flexContainer {
   display: flex;
+  align-items: center;
   justify-content: center;
-  padding: 27px;
 }
 
 .footer-3 p {
-  width: 438px;
-  height: 35px;
+  margin-top: 2%;
+  max-width: 438px;
+  max-height: 35px;
+  width: 100vw;
+  height: 100vh;
 
   font-weight: 400;
   font-size: 18px;

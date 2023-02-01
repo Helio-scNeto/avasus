@@ -1,22 +1,26 @@
 import axios from 'axios';
 import { motion } from 'framer-motion';
-import { useState, useEffect, useRef } from 'react';
+import { useState, useEffect } from 'react';
 import { Link } from 'react-router-dom';
 import '../styles/PaginaInicial.css';
 import timerIcon from '../assets/timer-Icon.svg';
 import userIcon from '../assets/user-Icon.svg';
 import StarRating from '../components/StarRating';
+import prevButton from '../assets/prev-button-1.svg';
 import avasusBanner from '../assets/avasus-bannerPrincipal.svg';
 import avasusBanner2 from '../assets/avasus-bannerPrincipal.svg';
+import avasusBanner3 from '../assets/avasus-bannerPrincipal.svg';
+import subtitulosobrePosicao from '../assets/subtitulosobrePosicao-1.svg';
+import subtitulosobrePosicaoLine from '../assets/subtitulo-Line-1.svg';
+import avasusBannerPrincipal from '../assets/avasus-logoPrincipal-1.svg';
 
-const images = [avasusBanner];
+const images = [avasusBanner, avasusBanner2, avasusBanner3];
 
 const PaginaInicial = () => {
   const [cursos, setCursos] = useState([]);
+  const [index, setIndex] = useState(0);
   const [endIndex, setendIndex] = useState(3);
-  const [width, setWidth] = useState(0);
-  const [rate, setRate] = useState('Mais populares');
-  const carousel = useRef();
+  const [rate, setRate] = useState('matriculados');
 
   async function getCursos() {
     const url = 'http://localhost:3000/';
@@ -29,35 +33,65 @@ const PaginaInicial = () => {
     }
   }
 
+  function nextStep() {
+    if (index === images.length - 1) {
+      setIndex(0);
+      return;
+    }
+    setIndex(index + 1);
+  }
+
+  function prevStep() {
+    if (index === images.length - 1) {
+      setIndex(0);
+      return;
+    }
+  }
+
   useEffect(() => {
     getCursos();
-    setWidth(
-      carousel.current?.scrollWidth - carousel.current?.offsetWidth
-    );
   }, [rate]);
 
   return (
     <div>
-      <motion.div
-        ref={carousel}
-        className="carousel"
-        whileTap={{ cursor: 'grabbing' }}
-        initial={{ x: 100 }}
-        animate={{ x: 0 }}
-        transition={{ duration: 0.8 }}
-      >
-        <motion.div
-          className="inner"
-          drag={'x'}
-          dragConstraints={{ right: 0, left: -width }}
-        >
-          {images.map((image) => (
-            <motion.div className="bannerPrincipal" key={image}>
-              <img src={image} alt="Carousel" />
-            </motion.div>
-          ))}
-        </motion.div>
-      </motion.div>
+      <div className="slideContainer-1">
+        <div className={'slideShow-1'}>
+          <div>
+            <img src={images[index]} alt="slides" className='slideShow-1-img'/>
+          </div>
+          {index == 0 ? (
+            <div>
+              <img
+                src={avasusBannerPrincipal}
+                alt="Capa Principal"
+                className="sobrePosicao1"
+              />
+            </div>
+          ) : null}
+          {index == 0 ? (
+            <div className="subtituloSobrePosicao1-Line">
+              <img
+                src={subtitulosobrePosicaoLine}
+                alt="subtitulosobrePosicaoLine"
+              />
+            </div>
+          ) : null}
+          {index == 0 ? (
+            <div className="subtitulosobrePosicao1">
+              <img
+                src={subtitulosobrePosicao}
+                alt="Capa Principal, sobreposição"
+              />
+            </div>
+          ) : null}
+          <button className="prevButton-1" onClick={prevStep}>
+            <img src={prevButton} alt="prevButton" />
+          </button>
+          <button className="nextButton-1" onClick={nextStep}>
+          <img src={prevButton} alt="prevButton" />
+          </button>
+        </div>
+      </div>
       <div className="titulo">
         <h1>Módulos Educacionais</h1>
       </div>

@@ -1,34 +1,36 @@
 .navbar {
-  overflow: visible;
   display: flex;
   position: fixed;
+  z-index: 2;
   top: 0;
-  left: 0;
+  
+  overflow: wrap;
+  list-style: none;
+  list-style-type: none;
+
+ 
+  background: #545454;
 
   max-width: 1920px;
   max-height: 100px;
 
-  width: 100%;
-  height: 100%;
-
-  background: #ffffff;
-  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  width: 100vw;
+  height: 100vh;
 
   white-space: nowrap;
 
-  z-index: 2;
+  background: #ffffff;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
 }
 
 .avasusLogo {
-  position: absolute;
-  width: 199.5px;
-  height: 43.08px;
-  left: 122px;
+  position: relative;
+  left: 5vw;
   top: 28px;
 
   background-image: url(../assets/avasus-logo.svg);
   background-repeat: no-repeat;
-  padding: 28px 75.5px 28.92px 122px;
+  padding: 8.5vw;
 }
 
 .navbar ul {
@@ -36,49 +38,46 @@
   position: relative;
   align-items: center;
 
-  margin: 38px 0px 36px 397px;
-  
+  margin: 3vw 0vh 3vw 9vw;
+
   font-weight: 600;
-  font-size: 20px;
-  line-height: 24px;
-  
 
   color: #2f2e41;
 }
 
+.navbar li{
+  padding-right: 1.2vw;
+}
+
 .nav-item {
-  font-weight: 600;
   font-size: 20px;
   line-height: 24px;
   display: flex;
-
-  margin-right: 36px;
-
   color: #707070;
 }
 
 .search-box {
-  position: absolute;
-  width: 353px;
-  height: 40px;
+  position: relative;
+  display: flex;
+  max-width: 353px;
+  max-height: 40px;
 
-  margin: 30px 16px 30px 1165px;
- 
+  width: 130%;
+  height: 100%;
+
+  padding: 10%;
+  padding-right: 5vw;
+
   border: 2px solid rgba(0, 0, 0, 0.2);
   border-radius: 20px;
 }
 
-.search-box img {
-  padding-left: 10px;
-  padding-top: 10px;
-}
-
 .search-box input {
   position: absolute;
-  margin-left: 10px;
-  padding-top: -100px;
-  width: 300px;
-  height: 40px;
+  margin-left: 12%;
+  margin-top: -0.9vh;
+  width: 80%;
+  height: 100%;
   border: none;
 }
 
@@ -95,32 +94,44 @@
 }
 
 .btn-entrar {
-  position: absolute;
-  box-sizing: border-box;
-
-  justify-content: center;
+  position: relative;
+  display: flex;
   align-items: center;
+  justify-content: center;
 
-  width: 130px;
-  height: 40px;
-  left: 1534px;
-  top: 30px;
+  margin-left: 7vw;
 
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 24px;
+  max-width: 130px;
+  max-height: 40px;
+
+  width: 5vw;
+  height: 3vh;
 
   border: 1px solid #707070;
   border-radius: 20px;
 }
 
+.btn-entrar input {
+  background-color: #ffffff;
+  border: none;
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+}
+
 .btn-cadastrar {
-  position: absolute;
+  position: relative;
+  display: flex;
+  align-items: center;
   justify-content: center;
-  margin: 30px 81px 30px 520px;
- 
-  width: 160px;
-  height: 40px;
+  
+  margin: 23% 0 0 0;
+
+  max-width: 160px;
+  max-height: 40px;
+
+  width: 12.5vw;
+  height: 4.6vw;
 
   font-weight: 600;
   font-size: 20px;

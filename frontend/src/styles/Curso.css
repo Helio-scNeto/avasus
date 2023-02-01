@@ -50,8 +50,11 @@
   align-items: center;
   text-transform: capitalize;
 
-  width: 1043px;
-  height: 49px;
+  max-width: 1043px;
+  max-height: 49px;
+  width: 100vw;
+  height: 100vw;
+  
   margin: 200px 472px 30px 405px;
 }
 
