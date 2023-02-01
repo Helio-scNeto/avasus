@@ -1,5 +1,5 @@
 .mainContainer {
-  margin-bottom: 1000px;
+  margin-bottom: 1400px;
 }
 
 .transparenciaTituloContainer-4 {
@@ -20,18 +20,472 @@
 
 .transparênciaDadosContainer-4 {
   position: absolute;
+
   width: 1110px;
   height: 319px;
   left: 405px;
   top: 259px;
+
+  color: #d2202c;
 
   background: #f5f5f7;
   box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
   border-radius: 20px;
 }
 
-.transparênciaDadosContainer-4 p{
-    
+.transparenciaSubtituloContainer-4 {
+  position: static;
+  max-width: 172px;
+  width: 100%;
+  max-height: 30px;
+  height: 100%;
+
+  margin: 30px 467px 30px 471px;
+
+  display: flex;
+  align-items: center;
+
+  color: #d2202c;
 }
 
+.textosimgContainer-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.transparenciaSubtituloContainer-4 h2 {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.align-4 {
+  display: flex;
+  text-align: center;
+  align-items: center;
+  white-space: nowrap;
+  gap: 48.2px;
+  margin: 30px 41px 0px 39px;
+}
+
+.align-4 p {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #2f2e41;
+}
+
+.usuarioRegistradosTextoImg-4 {
+  position: static;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 277px;
+  height: 20px;
+
+  font-weight: 700;
+}
+
+.usuarioRegistradosTextoImg-4 img {
+  position: static;
+  left: 23.12%;
+  right: 75.56%;
+  top: 16.49%;
+  bottom: 82.56%;
+
+  max-width: 25.26px;
+  width: 100%;
+  max-height: 20px;
+  height: 100%;
+
+  padding: 9.74px;
+}
+
+.cursosAtivosTextoImg-4 {
+  position: relative;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  max-width: 145px;
+  width: 100%;
+  max-height: 20px;
+  height: 100%;
+}
+
+.cursosAtivosTextoImg-4 img {
+  max-width: 23.14px;
+  width: 100%;
+  max-height: 18px;
+  height: 100%;
+  left: 55.05%;
+  right: 43.74%;
+  top: 16.54%;
+  bottom: 82.61%;
+  padding: 9.86px;
+}
+
+.direitoaCertificadoTextoImg-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.usuarioRegistrados-4 {
+  position: static;
+  display: inline-block;
+
+  max-width: 123px;
+  width: 100%;
+  max-height: 37px;
+  height: 100%;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+
+  margin: 0px 0px 157px 115px;
+}
+
+.inscriçõesRealizadasTextoImg-4 {
+  position: relative;
+  display: flex;
+  align-items: center;
+
+  max-width: 204px;
+  width: 100%;
+  max-height: 20px;
+  height: 100%;
+}
+
+.inscriçõesRealizadasTextoImg-4 p {
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #2f2e41;
+  white-space: nowrap;
+}
+
+.inscriçõesRealizadasTextoImg-4 img {
+  position: static;
+  left: 6.25%;
+  right: 12.5%;
+  top: 6.25%;
+  bottom: 6.25%;
+
+  max-width: 16.25px;
+  width: 100%;
+  max-height: 17.5px;
+  height: 100%;
+
+  padding: 12.5px;
+}
+
+.align-4-2 {
+  position: absolute;
+  display: flex;
+  align-items: center;
+  max-width: 800px;
+  max-height: 20px;
+
+  margin: 94px 570px 0px 287px;
+
+  white-space: nowrap;
+  font-weight: 700;
+}
+
+.align-4-2 p {
+  font-size: 16px;
+  line-height: 20px;
+  color: #2f2e41;
+}
+
+.investimentoCursoTextoImg-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 290px;
+  height: 25px;
+  left: 655px;
+  top: 461px;
+}
+
+.investimentoCursoTextoImg-4 img {
+  position: static;
+  max-width: 26.57px;
+  max-height: 25px;
+  width: 100%;
+  height: 100%;
+  left: 655px;
+  top: 461px;
+  padding-right: 10.43px;
+  margin-top: -10px;
+}
+
+.investimentoAlunoTextoImg-4 {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0px 0px 0px 39px;
+}
+
+.investimentoAlunoTextoImg-4 img {
+  position: static;
+  left: 51.25%;
+  right: 47.81%;
+  top: 21.79%;
+  bottom: 77.27%;
+  padding-right: 9.9px;
+}
+
+.inscricoesRealizadas-4 {
+  position: static;
+  max-width: 147px;
+  width: 100%;
+  max-height: 37px;
+  height: 100%;
+
+  left: 814px;
+  top: 384px;
+
+  margin: 30px 100px 0px 171px;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+}
+
+.cursosAtivos-4 {
+  position: relative;
+  display: inline-block;
+  width: 134px;
+  height: 37px;
+
+  margin: 30px 148px 40px 0px;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+}
+
+.direitoaCertificacao-4 {
+  position: static;
+  display: inline-block;
+  align-items: center;
+  width: 55px;
+  height: 37px;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+
+  color: #d2202c;
+}
+
+.investimentoMedioCurso-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+  text-align: center;
+
+  margin: -100px 199px 45px 0px;
+}
+
+.investimentoMedioAluno-4 {
+  position: relative;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  width: 109px;
+  height: 37px;
+
+  font-weight: 600;
+  font-size: 30px;
+  line-height: 37px;
+
+  margin: -83px 336px 45px 665px;
+
+  color: #d2202c;
+}
+
+/* sessão do gráfico */
+
+.graficoContainer {
+  position: absolute;
+  max-width: 540px;
+  width: 100%;
+  max-height: 667px;
+  height: 100%;
+  top: 609px;
+
+  background: #f5f5f7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+
+  margin: 0px 30px 3000px 405px;
+}
+
+.graficoContainerTitulo {
+  position: relative;
+  width: 240px;
+  height: 30px;
+  white-space: nowrap;
+
+  display: flex;
+  align-items: center;
+
+  margin: 30px 150px 30px 150px;
+  color: #f6303f;
+}
+
+.graficoContainerTitulo h1 {
+  font-weight: 600;
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.grafico {
+  border: 1px solid #ffffff;
+  padding: 15px 83px 50px 83px;
+}
+
+.usuariosPorCurso {
+  white-space: nowrap;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+  color: #2f2e41;
+}
+
+.usuariosPorCurso li {
+  margin-bottom: 15px;
+  margin-left: 30px;
+}
+
+.marcador-0 {
+  display: flex;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  left: 0px;
+  padding: 3px;
+  background: #ffffff;
+  border-radius: 20px;
+}
+
+.marcador-1 {
+  display: flex;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  left: 0px;
+  padding: 3px;
+  background: #f6303f;
+  border-radius: 20px;
+}
+
+.marcador-2 {
+  display: flex;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  left: 0px;
+  padding: 3px;
+  background: #f6303f;
+  border-radius: 20px;
+  background: #707070;
+}
+
+.marcador-3 {
+  display: flex;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  left: 0px;
+  padding: 3px;
+  border-radius: 20px;
+  background: #2f2e41;
+}
+
+.marcador-4 {
+  display: flex;
+  position: absolute;
+  width: 20px;
+  height: 20px;
+  margin-top: -6px;
+  left: -30px;
+  padding: 3px;
+  background: #707070;
+  border-radius: 20px;
+}
+
+.MapaContainer {
+  position: absolute;
+  width: 540px;
+  height: 667px;
+  left: 975px;
+  top: 609px;
+
+  background: #f5f5f7;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.1);
+  border-radius: 20px;
+}
+
+.MapaContainerTitulo {
+  position: relative;
+  width: 258px;
+  height: 30px;
+  white-space: nowrap;
+
+  margin: 30px 141px 15px 141px;
+
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+
+  color: #f6303f;
+}
+
+.MapaContainerTitulo h1 {
+  font-size: 25px;
+  line-height: 30px;
+}
+
+.mapa {
+  position: relative;
+  width: 451px;
+  height: 397px;
+  margin: 15px 44px 5px 45px;
+}
+
+.usuariosPorEstado-5 li {
+  display: inline;
+  white-space: nowrap;
+  position: relative;
+  list-style: none;
+
+  margin: 0px 40px 0px 10px;
+
+  padding: 4px;
+
+  float: left;
+  width: 50px;
+
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 20px;
+
+  color: #2f2e41;
+}

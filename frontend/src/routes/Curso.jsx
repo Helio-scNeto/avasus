@@ -27,7 +27,6 @@ function Curso() {
 
   useEffect(() => {
     const cursoUrl = `${url}cursos/${id}`;
-    console.log(cursoUrl);
     getCurso(cursoUrl);
   }, []);
 

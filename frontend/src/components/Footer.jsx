@@ -33,18 +33,18 @@ const Footer = () => {
             <h2>Links Úteis</h2>
             <ul>
               <li>
-                <Link to={'#'}>Inicio</Link>
+                <Link to={"/"}>Inicio</Link>
               </li>
               <li><Link to={'#'}>Sobre Nós</Link></li>
-              <li><Link to={'#'}>Módulos</Link></li>
-              <li><Link to={'#'}>Parceiros</Link></li>
-              <li><Link to={'#'}>Transparência</Link></li>
+              <li><Link to={'cursos'}>Módulos</Link></li>
+              <li><Link to={'parceiros'}>Parceiros</Link></li>
+              <li><Link to={'transparencia'}>Transparência</Link></li>
             </ul>
             <p>Laboratório de inovação Tecnológica em Saúde.</p>
           </div>
           <div className="flexContainer-footer2-3">
             <h2>Redes sociais</h2>
-            <Link to={`#`}>
+            <Link to={'#'}>
               <img
                 className="facebookLogo"
                 src={facebookLogo}

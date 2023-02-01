@@ -4,7 +4,6 @@ import '../styles/Navbar.css';
 import { Link } from 'react-router-dom';
 
 const Navbar = () => {
-  const inicioURL = import.meta.env.BASE_URL;
   return (
     <div>
       <div className="navbar">

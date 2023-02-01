@@ -1,12 +1,26 @@
+
+.carousel{
+  overflow: hidden;
+  max-width: 1920px;
+  max-height: 760px;
+}
+
+.inner{
+  display: flex;
+}
+
 .bannerPrincipal {
-  width: 1920px;
-  height: 760px;
+  min-height: 200px;
+  min-width: 400px;
   left: 0px;
   top: 0px;
+  padding: 14px;
+}
 
-  background: url(../assets/avasus-bannerPrincipal.svg);
-  background-repeat: no-repeat;
-  background-position: 0cm 2.5cm
+.bannerPrincipal img{
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
 }
 
 .titulo h1 {
@@ -27,25 +41,27 @@
   color: #d2202c;
 }
 
-.subtitulos {
+.rates{
   display: flex;
-  margin: 0px 965px 0px 405px;
-  width: 550px;
-  height: 35px;
-
-  font-weight: 600;
-  font-size: 20px;
-  line-height: 24px;
+  align-items: center;
   justify-content: center;
+  white-space: nowrap;
+  margin: 30px 965px 30px 490px;
+}
 
+.rates li {
+  padding-right: 30px;
   color: #2f2e41;
 }
 
-.subtitulos h4 {
-  width: 202px;
-  height: 24px;
-  padding-right: 34px;
-  white-space: nowrap;
+.rates button{
+  font-weight: 600;
+  font-size: 20px;
+  line-height: 24px;
+  list-style: none;
+
+  border: none;
+  background-color: #ffffff;
 }
 
 .curso {
@@ -66,20 +82,15 @@
   display: flex;
 }
 
-.cursoBanner {
-  width: 120px;
-  height: 120px;
-  left: 425px;
-  top: 1126px;
+.cursoBanner img {
+  position: static;
+  max-width: 120px;
+  max-height: 120px;
+  width: 100%;
+  height: 100%;
 
-  background: url(../assets/sifilis-banner.svg);
-  background-repeat: no-repeat;
-  border-radius: 20px;
-
-  margin-top: 20px;
-  margin-left: 20px;
-
-  padding: 20px 0px 20px 20px;
+  border-radius: 15%;
+  margin: 20px;
 }
 
 .tituloParceiros {
@@ -240,7 +251,7 @@
   left: 405px;
   top: 1916px;
 
-  margin: 0px 405px 776px 405px;
+  margin: 0px 405px 132px 405px;
 
   background: #f5f5f7;
   border-radius: 20px;

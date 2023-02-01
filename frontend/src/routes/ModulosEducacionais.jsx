@@ -168,7 +168,7 @@ function ModulosEducacionais() {
               <div className="cursoResumo">
                 <p>{curso.resumo}</p>
               </div>
-              <Link to={`/cursos/${curso.id}`}>
+              <Link to={`cursos/${curso.id}`}>
                 <input
                   type="button"
                   className="btn-verCurso"
